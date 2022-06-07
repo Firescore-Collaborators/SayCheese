@@ -48,6 +48,7 @@
      <Compile Include="Assets\LeanTween\Examples\Scripts\TestingUnitTests.cs" />
      <Compile Include="Assets\LeanTween\Examples\Archived\TestingPunch.cs" />
      <Compile Include="Assets\LeanTween\Framework\LTSeq.cs" />
+     <Compile Include="Assets\BzKovSoft\CheeseSlicerAssets2\Katana.cs" />
      <Compile Include="Assets\SayCheese\_Scripts\Gameplay\ObjectFlip.cs" />
      <Compile Include="Assets\3rd party\EzySlice\SlicedHull.cs" />
      <Compile Include="Assets\LeanTween\Examples\Scripts\GeneralUISpace.cs" />
@@ -57,12 +58,14 @@
      <Compile Include="Assets\LeanTween\Examples\Scripts\GeneralSimpleUI.cs" />
      <Compile Include="Assets\3rd party\EzySlice\Framework\IntersectionResult.cs" />
      <Compile Include="Assets\SayCheese\_Scripts\Gameplay\LerpObjectPosition.cs" />
+     <Compile Include="Assets\SayCheese\_Scripts\Gameplay\Timer.cs" />
      <Compile Include="Assets\LeanTween\Examples\Scripts\PathSplineEndless.cs" />
      <Compile Include="Assets\SayCheese\_Scripts\Gameplay\LerpObjectLocalRotation.cs" />
      <Compile Include="Assets\LeanTween\Examples\Scripts\PathBezier.cs" />
      <Compile Include="Assets\SayCheese\_Scripts\Gameplay\ObjectFollowOnHit.cs" />
      <Compile Include="Assets\LeanTween\Examples\Scripts\PathSpline.cs" />
      <Compile Include="Assets\SayCheese\_Scripts\Gameplay\LerpObjectRotation.cs" />
+     <Compile Include="Assets\BzKovSoft\CheeseSlicerAssets2\GameManager.cs" />
      <Compile Include="Assets\3rd party\EzySlice\Framework\TextureRegion.cs" />
      <Compile Include="Assets\LeanTween\Examples\Scripts\GeneralAdvancedTechniques.cs" />
      <Compile Include="Assets\SayCheese\_Scripts\Gameplay\RespondMessage.cs" />
@@ -76,6 +79,7 @@
      <Compile Include="Assets\SayCheese\_Scripts\Example\Scripts\ShatterExample.cs" />
      <Compile Include="Assets\3rd party\EzySlice\Framework\Intersector.cs" />
      <Compile Include="Assets\LeanTween\Framework\LeanTest.cs" />
+     <Compile Include="Assets\SayCheese\_Scripts\Level\SliceController.cs" />
      <Compile Include="Assets\LeanTween\Examples\Scripts\TestingZLegacy.cs" />
      <Compile Include="Assets\LeanTween\Examples\Scripts\PathSpline2d.cs" />
      <Compile Include="Assets\3rd party\EzySlice\Slicer.cs" />
@@ -97,15 +101,14 @@
      <Compile Include="Assets\LeanTween\Examples\Archived\TestingRigidbodyCS.cs" />
      <Compile Include="Assets\LeanTween\Examples\Scripts\Following.cs" />
      <Compile Include="Assets\3rd party\EzySlice\Framework\Line.cs" />
-     <Compile Include="Assets\BzKovSoft\CheeseSlicerAssets2\GameManager.cs" />
-     <Compile Include="Assets\BzKovSoft\CheeseSlicerAssets2\Katana.cs" />
-     <Compile Include="Assets\SayCheese\_Scripts\Gameplay\Timer.cs" />
-     <Compile Include="Assets\SayCheese\_Scripts\Level\SliceController.cs" />
      <None Include="Assets\LeanTween\ReadMe.txt" />
+     <None Include="Assets\Deform\LICENSE.txt" />
      <None Include="Assets\LeanTween\License.txt" />
      <None Include="Assets\SayCheese\_Shaders\StandardDoubleSide.shader" />
      <None Include="Assets\BzKovSoft\CheeseSlicerAssets2\RollProgressed.shader" />
      <None Include="Assets\LeanTween\Examples\Archived\2dUnlitWithFade.shader" />
+     <None Include="Assets\Deform\EditorResources\Textures\External\MaterialDesign\LICENSE.txt" />
+     <None Include="Assets\Deform\README.txt" />
     <Reference Include="UnityEngine">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.32f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
@@ -330,6 +333,18 @@
     </Reference>
     <Reference Include="DOTween">
         <HintPath>H:\FirescoreInteractive\Repos\SayCheese\SayCheese\Assets\Plugins\Demigiant\DOTween\DOTween.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.Editor">
+        <HintPath>H:\FirescoreInteractive\Repos\SayCheese\SayCheese\Library\PackageCache\com.unity.analytics@3.5.3\Unity.Analytics.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Burst.Unsafe">
+        <HintPath>H:\FirescoreInteractive\Repos\SayCheese\SayCheese\Library\PackageCache\com.unity.burst@1.4.2\Unity.Burst.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.Tracker">
+        <HintPath>H:\FirescoreInteractive\Repos\SayCheese\SayCheese\Library\PackageCache\com.unity.analytics@3.5.3\Unity.Analytics.Tracker.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.StandardEvents">
+        <HintPath>H:\FirescoreInteractive\Repos\SayCheese\SayCheese\Library\PackageCache\com.unity.analytics@3.5.3\AnalyticsStandardEvents\Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.32f1\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -700,6 +715,10 @@
       <Project>{016efcdb-5dfd-153b-2cd6-9d7142ebf947}</Project>
       <Name>Unity.VSCode.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="BzKovSoft.CharacterSlicer.csproj">
+      <Project>{314d7d16-e84c-5f0e-3ca5-296162ecaec0}</Project>
+      <Name>BzKovSoft.CharacterSlicer</Name>
+    </ProjectReference>
     <ProjectReference Include="com.unity.cinemachine.editor.csproj">
       <Project>{5974cdeb-82f3-6a16-7a98-1427eac24e7c}</Project>
       <Name>com.unity.cinemachine.editor</Name>
@@ -724,6 +743,14 @@
       <Project>{da95a43b-bf6e-3b0a-a0c7-be417f1ef6a3}</Project>
       <Name>Unity.VisualStudio.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="BzKovSoft.CharacterSlicer.Samples.csproj">
+      <Project>{99ebb6eb-d25b-f774-c3cf-d22540485acf}</Project>
+      <Name>BzKovSoft.CharacterSlicer.Samples</Name>
+    </ProjectReference>
+    <ProjectReference Include="BzKovSoft.ObjectSlicer.Editor.csproj">
+      <Project>{61df2a22-9137-8a34-c5be-c47e13d12804}</Project>
+      <Name>BzKovSoft.ObjectSlicer.Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.Timeline.Editor.csproj">
       <Project>{820762b5-fa08-5e66-086d-c2f0475c8c6b}</Project>
       <Name>Unity.Timeline.Editor</Name>
@@ -732,9 +759,17 @@
       <Project>{5291886f-9b52-ef8f-c087-20e09810250b}</Project>
       <Name>Unity.Timeline</Name>
     </ProjectReference>
+    <ProjectReference Include="BzKovSoft.ObjectSlicer.Samples.csproj">
+      <Project>{7e082b0b-2fda-17a6-0eb6-aef6c1cbfee2}</Project>
+      <Name>BzKovSoft.ObjectSlicer.Samples</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.TextMeshPro.csproj">
       <Project>{903180fe-0b02-2779-0da3-2ee5d708327f}</Project>
       <Name>Unity.TextMeshPro</Name>
+    </ProjectReference>
+    <ProjectReference Include="BzKovSoft.ObjectSlicer.csproj">
+      <Project>{0a2a1477-83e8-e540-12c2-b2ba65e7a7dc}</Project>
+      <Name>BzKovSoft.ObjectSlicer</Name>
     </ProjectReference>
     <ProjectReference Include="NaughtyAttributes.Core.csproj">
       <Project>{5da6a42d-aaee-0281-f280-4375734425d2}</Project>
@@ -760,25 +795,105 @@
       <Project>{3fcdee15-4549-dbc6-8642-c0b673fd33bc}</Project>
       <Name>Unity.Recorder</Name>
     </ProjectReference>
-    <ProjectReference Include="BzKovSoft.ObjectSlicer.Samples.csproj">
-      <Project>{7e082b0b-2fda-17a6-0eb6-aef6c1cbfee2}</Project>
-      <Name>BzKovSoft.ObjectSlicer.Samples</Name>
+    <ProjectReference Include="Purchasing.Common.csproj">
+      <Project>{afa2a915-473e-ba4b-1d53-22343e6ab97f}</Project>
+      <Name>Purchasing.Common</Name>
     </ProjectReference>
-    <ProjectReference Include="BzKovSoft.ObjectSlicer.Editor.csproj">
-      <Project>{61df2a22-9137-8a34-c5be-c47e13d12804}</Project>
-      <Name>BzKovSoft.ObjectSlicer.Editor</Name>
+    <ProjectReference Include="UnityEngine.SpatialTracking.csproj">
+      <Project>{13952605-ae62-e6d3-95e9-124878c21997}</Project>
+      <Name>UnityEngine.SpatialTracking</Name>
     </ProjectReference>
-    <ProjectReference Include="BzKovSoft.ObjectSlicer.csproj">
-      <Project>{0a2a1477-83e8-e540-12c2-b2ba65e7a7dc}</Project>
-      <Name>BzKovSoft.ObjectSlicer</Name>
+    <ProjectReference Include="UnityEngine.Purchasing.SecurityStub.csproj">
+      <Project>{996afb98-d5ac-e8ab-2561-e69973cd3a40}</Project>
+      <Name>UnityEngine.Purchasing.SecurityStub</Name>
     </ProjectReference>
-    <ProjectReference Include="BzKovSoft.CharacterSlicer.csproj">
-      <Project>{314d7d16-e84c-5f0e-3ca5-296162ecaec0}</Project>
-      <Name>BzKovSoft.CharacterSlicer</Name>
+    <ProjectReference Include="Unity.2D.Tilemap.Editor.csproj">
+      <Project>{cea9392e-afbd-010e-9182-51402696c754}</Project>
+      <Name>Unity.2D.Tilemap.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="BzKovSoft.CharacterSlicer.Samples.csproj">
-      <Project>{99ebb6eb-d25b-f774-c3cf-d22540485acf}</Project>
-      <Name>BzKovSoft.CharacterSlicer.Samples</Name>
+    <ProjectReference Include="UnityEngine.Advertisements.Editor.csproj">
+      <Project>{40106d8f-ac49-e056-5a9b-b8ddea2551f9}</Project>
+      <Name>UnityEngine.Advertisements.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEngine.Purchasing.Codeless.csproj">
+      <Project>{9025580e-e5c9-f83b-3294-f20b697acc34}</Project>
+      <Name>UnityEngine.Purchasing.Codeless</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEngine.Purchasing.csproj">
+      <Project>{59761806-3b47-cc05-3e07-1bbcfdf04a79}</Project>
+      <Name>UnityEngine.Purchasing</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEngine.Monetization.csproj">
+      <Project>{99989baf-aab4-ca60-f7f8-2441b4e6e6ca}</Project>
+      <Name>UnityEngine.Monetization</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEditor.XR.LegacyInputHelpers.csproj">
+      <Project>{4af13865-ab39-3a0b-38b2-6e0d40d27556}</Project>
+      <Name>UnityEditor.XR.LegacyInputHelpers</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEditor.SpatialTracking.csproj">
+      <Project>{e431a6e1-786f-8239-f7c2-3f800f9fdd10}</Project>
+      <Name>UnityEditor.SpatialTracking</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEngine.Advertisements.csproj">
+      <Project>{302e5e84-fae3-5360-d520-f5ed3dbc1b78}</Project>
+      <Name>UnityEngine.Advertisements</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Burst.csproj">
+      <Project>{02ad19c6-629e-1d8f-4762-0873a004d176}</Project>
+      <Name>Unity.Burst</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Analytics.DataPrivacy.csproj">
+      <Project>{b5c47059-42c2-578a-1398-4d4258661579}</Project>
+      <Name>Unity.Analytics.DataPrivacy</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEngine.Purchasing.SecurityCore.csproj">
+      <Project>{ff59f54e-d18a-7a66-49c0-99e124ab61db}</Project>
+      <Name>UnityEngine.Purchasing.SecurityCore</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEngine.Purchasing.Stores.csproj">
+      <Project>{5c71994b-58cb-fc03-332a-72adf35d1dab}</Project>
+      <Name>UnityEngine.Purchasing.Stores</Name>
+    </ProjectReference>
+    <ProjectReference Include="Analytics.csproj">
+      <Project>{e0bdbfe9-8d69-6c1e-2377-ed72f5378323}</Project>
+      <Name>Analytics</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Burst.Editor.csproj">
+      <Project>{daf31264-3223-f8cc-e95a-0369138e7f3e}</Project>
+      <Name>Unity.Burst.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.2D.Sprite.Editor.csproj">
+      <Project>{2fadc3d9-a808-4509-e5bc-361edebc8d77}</Project>
+      <Name>Unity.2D.Sprite.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEngine.XR.LegacyInputHelpers.csproj">
+      <Project>{f46f9f3a-74e7-eba7-df05-ce33b0a055df}</Project>
+      <Name>UnityEngine.XR.LegacyInputHelpers</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEditor.Purchasing.csproj">
+      <Project>{ab09940d-5da8-5a19-da07-ef81e268ceaf}</Project>
+      <Name>UnityEditor.Purchasing</Name>
+    </ProjectReference>
+    <ProjectReference Include="Beans.Unity.Editor.csproj">
+      <Project>{6e9c60be-5efb-18c8-17da-ea5003c1a38b}</Project>
+      <Name>Beans.Unity.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Beans.Unity.Mathematics.csproj">
+      <Project>{96084e1e-1c28-b07e-2d44-4fbe808d6685}</Project>
+      <Name>Beans.Unity.Mathematics</Name>
+    </ProjectReference>
+    <ProjectReference Include="Deform.csproj">
+      <Project>{1e08a2d5-712e-7a1a-390d-69cdf72aee08}</Project>
+      <Name>Deform</Name>
+    </ProjectReference>
+    <ProjectReference Include="DeformEditor.csproj">
+      <Project>{055d1f30-0f02-140e-2f7b-822c629ab91e}</Project>
+      <Name>DeformEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Beans.Unity.Collections.csproj">
+      <Project>{47e2739f-8ec6-63f7-f29a-d5c0fe713953}</Project>
+      <Name>Beans.Unity.Collections</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
