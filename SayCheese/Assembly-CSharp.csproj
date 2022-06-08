@@ -86,7 +86,6 @@
      <Compile Include="Assets\LeanTween\Framework\LeanSmooth.cs" />
      <Compile Include="Assets\LeanTween\Examples\Scripts\GeneralBasics2d.cs" />
      <Compile Include="Assets\SayCheese\_Scripts\Gameplay\ObjectRotateUp.cs" />
-     <Compile Include="Assets\SayCheese\_Scripts\Level\LevelObject.cs" />
      <Compile Include="Assets\LeanTween\Examples\Scripts\PathSplineTrack.cs" />
      <Compile Include="Assets\3rd party\EzySlice\Framework\Intersector.cs" />
      <Compile Include="Assets\LeanTween\Framework\LeanTest.cs" />
