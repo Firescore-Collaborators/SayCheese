@@ -1342,3 +1342,2434 @@ Received Import Request.
   path: Assets/SayCheese/_Scripts/Level/Sliceable.cs
   artifactKey: Guid(e94bccfb1ca21914ba8ba49f687b880d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/SayCheese/_Scripts/Level/Sliceable.cs using Guid(e94bccfb1ca21914ba8ba49f687b880d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38a43697a63384f991616737598f0103') in 0.012554 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.164982 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.24 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.016 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2017ms)
+		BeginReloadAssembly (205ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (59ms)
+		EndReloadAssembly (1694ms)
+			LoadAssemblies (200ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (449ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (74ms)
+			SetupLoadedEditorAssemblies (860ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (175ms)
+				ProcessInitializeOnLoadAttributes (578ms)
+				ProcessInitializeOnLoadMethodAttributes (80ms)
+				AfterProcessingInitializeOnLoad (18ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.78 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.3 MB.
+System memory in use after: 130.9 MB.
+
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 3549.
+Total: 22.168100 ms (FindLiveObjects: 0.739100 ms CreateObjectMapping: 0.349400 ms MarkObjects: 19.664100 ms  DeleteObjects: 1.413200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.025080 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.44 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.810 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3811ms)
+		BeginReloadAssembly (283ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (13ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (90ms)
+		EndReloadAssembly (3173ms)
+			LoadAssemblies (280ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (829ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (111ms)
+			SetupLoadedEditorAssemblies (1756ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (224ms)
+				ProcessInitializeOnLoadAttributes (1087ms)
+				ProcessInitializeOnLoadMethodAttributes (399ms)
+				AfterProcessingInitializeOnLoad (33ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.11 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.2 MB.
+System memory in use after: 130.9 MB.
+
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 3552.
+Total: 16.380500 ms (FindLiveObjects: 0.405600 ms CreateObjectMapping: 1.149600 ms MarkObjects: 14.145400 ms  DeleteObjects: 0.678500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.019837 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.13 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.252 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2253ms)
+		BeginReloadAssembly (258ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (98ms)
+		EndReloadAssembly (1871ms)
+			LoadAssemblies (222ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (448ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (132ms)
+			SetupLoadedEditorAssemblies (914ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (179ms)
+				ProcessInitializeOnLoadAttributes (613ms)
+				ProcessInitializeOnLoadMethodAttributes (96ms)
+				AfterProcessingInitializeOnLoad (17ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.18 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.3 MB.
+System memory in use after: 130.9 MB.
+
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 3555.
+Total: 35.162400 ms (FindLiveObjects: 0.453200 ms CreateObjectMapping: 0.609000 ms MarkObjects: 10.088800 ms  DeleteObjects: 24.009700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008689 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.14 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.927 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1928ms)
+		BeginReloadAssembly (221ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (67ms)
+		EndReloadAssembly (1608ms)
+			LoadAssemblies (189ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (483ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (65ms)
+			SetupLoadedEditorAssemblies (764ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (152ms)
+				ProcessInitializeOnLoadAttributes (467ms)
+				ProcessInitializeOnLoadMethodAttributes (116ms)
+				AfterProcessingInitializeOnLoad (21ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.35 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.2 MB.
+System memory in use after: 130.9 MB.
+
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 3558.
+Total: 15.807900 ms (FindLiveObjects: 0.713000 ms CreateObjectMapping: 0.855400 ms MarkObjects: 13.324600 ms  DeleteObjects: 0.913400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009073 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.03 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.501 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2502ms)
+		BeginReloadAssembly (233ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (14ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (72ms)
+		EndReloadAssembly (2127ms)
+			LoadAssemblies (197ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (530ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (73ms)
+			SetupLoadedEditorAssemblies (1196ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (198ms)
+				ProcessInitializeOnLoadAttributes (842ms)
+				ProcessInitializeOnLoadMethodAttributes (122ms)
+				AfterProcessingInitializeOnLoad (25ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (19ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.90 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.2 MB.
+System memory in use after: 130.9 MB.
+
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 3561.
+Total: 16.058600 ms (FindLiveObjects: 0.442900 ms CreateObjectMapping: 0.355800 ms MarkObjects: 14.221300 ms  DeleteObjects: 1.037000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009989 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.10 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.332 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2332ms)
+		BeginReloadAssembly (641ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (250ms)
+		EndReloadAssembly (1483ms)
+			LoadAssemblies (428ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (423ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (62ms)
+			SetupLoadedEditorAssemblies (702ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (148ms)
+				ProcessInitializeOnLoadAttributes (451ms)
+				ProcessInitializeOnLoadMethodAttributes (77ms)
+				AfterProcessingInitializeOnLoad (16ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.05 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.3 MB.
+System memory in use after: 130.9 MB.
+
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 3564.
+Total: 16.254100 ms (FindLiveObjects: 0.340500 ms CreateObjectMapping: 0.308400 ms MarkObjects: 7.730100 ms  DeleteObjects: 7.874000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007570 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.03 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.937 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1938ms)
+		BeginReloadAssembly (199ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (18ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (54ms)
+		EndReloadAssembly (1621ms)
+			LoadAssemblies (177ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (441ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (77ms)
+			SetupLoadedEditorAssemblies (785ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (162ms)
+				ProcessInitializeOnLoadAttributes (523ms)
+				ProcessInitializeOnLoadMethodAttributes (75ms)
+				AfterProcessingInitializeOnLoad (17ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.18 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.3 MB.
+System memory in use after: 130.9 MB.
+
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 3567.
+Total: 12.938000 ms (FindLiveObjects: 0.301600 ms CreateObjectMapping: 0.465000 ms MarkObjects: 11.416900 ms  DeleteObjects: 0.752900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015385 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 3.39 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.236 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2237ms)
+		BeginReloadAssembly (200ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (60ms)
+		EndReloadAssembly (1939ms)
+			LoadAssemblies (213ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (450ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (75ms)
+			SetupLoadedEditorAssemblies (1028ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (4ms)
+				RefreshPlugins (4ms)
+				BeforeProcessingInitializeOnLoad (225ms)
+				ProcessInitializeOnLoadAttributes (663ms)
+				ProcessInitializeOnLoadMethodAttributes (100ms)
+				AfterProcessingInitializeOnLoad (21ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (15ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.48 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.2 MB.
+System memory in use after: 130.9 MB.
+
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 3570.
+Total: 19.053800 ms (FindLiveObjects: 1.242400 ms CreateObjectMapping: 0.836200 ms MarkObjects: 15.976300 ms  DeleteObjects: 0.997500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007770 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.06 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.000 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2001ms)
+		BeginReloadAssembly (208ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (68ms)
+		EndReloadAssembly (1698ms)
+			LoadAssemblies (214ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (477ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (79ms)
+			SetupLoadedEditorAssemblies (775ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (167ms)
+				ProcessInitializeOnLoadAttributes (504ms)
+				ProcessInitializeOnLoadMethodAttributes (79ms)
+				AfterProcessingInitializeOnLoad (17ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.73 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.3 MB.
+System memory in use after: 130.9 MB.
+
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 3573.
+Total: 14.617000 ms (FindLiveObjects: 0.628200 ms CreateObjectMapping: 0.369200 ms MarkObjects: 12.923800 ms  DeleteObjects: 0.694600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011880 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.25 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.148 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2149ms)
+		BeginReloadAssembly (223ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (13ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (67ms)
+		EndReloadAssembly (1808ms)
+			LoadAssemblies (282ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (493ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (100ms)
+			SetupLoadedEditorAssemblies (812ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (13ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (190ms)
+				ProcessInitializeOnLoadAttributes (504ms)
+				ProcessInitializeOnLoadMethodAttributes (86ms)
+				AfterProcessingInitializeOnLoad (17ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.06 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.3 MB.
+System memory in use after: 130.9 MB.
+
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 3576.
+Total: 12.916300 ms (FindLiveObjects: 0.400200 ms CreateObjectMapping: 0.314800 ms MarkObjects: 11.529200 ms  DeleteObjects: 0.670900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011489 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.16 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.460 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2460ms)
+		BeginReloadAssembly (292ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (132ms)
+		EndReloadAssembly (2010ms)
+			LoadAssemblies (198ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (579ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (64ms)
+			SetupLoadedEditorAssemblies (1043ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (224ms)
+				ProcessInitializeOnLoadAttributes (652ms)
+				ProcessInitializeOnLoadMethodAttributes (128ms)
+				AfterProcessingInitializeOnLoad (30ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (15ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.60 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.3 MB.
+System memory in use after: 130.9 MB.
+
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 3579.
+Total: 36.279200 ms (FindLiveObjects: 0.841000 ms CreateObjectMapping: 0.405600 ms MarkObjects: 33.975300 ms  DeleteObjects: 1.055100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008801 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.11 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.888 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1889ms)
+		BeginReloadAssembly (207ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (60ms)
+		EndReloadAssembly (1568ms)
+			LoadAssemblies (189ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (475ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (67ms)
+			SetupLoadedEditorAssemblies (735ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (145ms)
+				ProcessInitializeOnLoadAttributes (482ms)
+				ProcessInitializeOnLoadMethodAttributes (81ms)
+				AfterProcessingInitializeOnLoad (17ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.14 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.3 MB.
+System memory in use after: 130.9 MB.
+
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 3582.
+Total: 10.674200 ms (FindLiveObjects: 0.643800 ms CreateObjectMapping: 0.439000 ms MarkObjects: 8.905700 ms  DeleteObjects: 0.684400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015222 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.36 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.114 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2115ms)
+		BeginReloadAssembly (344ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (1ms)
+			CreateAndSetChildDomain (63ms)
+		EndReloadAssembly (1641ms)
+			LoadAssemblies (254ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (475ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (68ms)
+			SetupLoadedEditorAssemblies (752ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (14ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (161ms)
+				ProcessInitializeOnLoadAttributes (479ms)
+				ProcessInitializeOnLoadMethodAttributes (78ms)
+				AfterProcessingInitializeOnLoad (18ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.36 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.3 MB.
+System memory in use after: 131.0 MB.
+
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 3585.
+Total: 28.806400 ms (FindLiveObjects: 0.354800 ms CreateObjectMapping: 0.291700 ms MarkObjects: 9.437400 ms  DeleteObjects: 18.720800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008547 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.72 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.372 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2373ms)
+		BeginReloadAssembly (290ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (12ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (83ms)
+		EndReloadAssembly (1952ms)
+			LoadAssemblies (205ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (509ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (90ms)
+			SetupLoadedEditorAssemblies (1006ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (256ms)
+				ProcessInitializeOnLoadAttributes (644ms)
+				ProcessInitializeOnLoadMethodAttributes (80ms)
+				AfterProcessingInitializeOnLoad (16ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.42 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.3 MB.
+System memory in use after: 131.0 MB.
+
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 3588.
+Total: 15.434600 ms (FindLiveObjects: 0.497900 ms CreateObjectMapping: 0.335000 ms MarkObjects: 13.965100 ms  DeleteObjects: 0.635200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011080 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.25 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.306 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2307ms)
+		BeginReloadAssembly (351ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (15ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (130ms)
+		EndReloadAssembly (1707ms)
+			LoadAssemblies (258ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (507ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (68ms)
+			SetupLoadedEditorAssemblies (808ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (145ms)
+				ProcessInitializeOnLoadAttributes (551ms)
+				ProcessInitializeOnLoadMethodAttributes (84ms)
+				AfterProcessingInitializeOnLoad (18ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.09 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.3 MB.
+System memory in use after: 131.0 MB.
+
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 3591.
+Total: 15.462900 ms (FindLiveObjects: 0.397400 ms CreateObjectMapping: 0.319900 ms MarkObjects: 13.935900 ms  DeleteObjects: 0.808200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011593 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.37 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.632 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2633ms)
+		BeginReloadAssembly (204ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (58ms)
+		EndReloadAssembly (2336ms)
+			LoadAssemblies (191ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (507ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (98ms)
+			SetupLoadedEditorAssemblies (1329ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (249ms)
+				ProcessInitializeOnLoadAttributes (819ms)
+				ProcessInitializeOnLoadMethodAttributes (219ms)
+				AfterProcessingInitializeOnLoad (29ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (17ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.18 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.3 MB.
+System memory in use after: 131.0 MB.
+
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 3594.
+Total: 9.903300 ms (FindLiveObjects: 0.405000 ms CreateObjectMapping: 0.370900 ms MarkObjects: 8.470100 ms  DeleteObjects: 0.655700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011194 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.33 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.529 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2530ms)
+		BeginReloadAssembly (192ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (57ms)
+		EndReloadAssembly (2240ms)
+			LoadAssemblies (184ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (602ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (86ms)
+			SetupLoadedEditorAssemblies (1162ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (168ms)
+				ProcessInitializeOnLoadAttributes (820ms)
+				ProcessInitializeOnLoadMethodAttributes (140ms)
+				AfterProcessingInitializeOnLoad (25ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (16ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.39 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.3 MB.
+System memory in use after: 131.0 MB.
+
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 3597.
+Total: 14.847200 ms (FindLiveObjects: 0.369000 ms CreateObjectMapping: 0.353000 ms MarkObjects: 13.428800 ms  DeleteObjects: 0.695100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011343 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.09 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.095 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2096ms)
+		BeginReloadAssembly (189ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (53ms)
+		EndReloadAssembly (1816ms)
+			LoadAssemblies (190ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (496ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (72ms)
+			SetupLoadedEditorAssemblies (912ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (143ms)
+				ProcessInitializeOnLoadAttributes (629ms)
+				ProcessInitializeOnLoadMethodAttributes (111ms)
+				AfterProcessingInitializeOnLoad (23ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (16ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.18 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.4 MB.
+System memory in use after: 131.0 MB.
+
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 3600.
+Total: 19.241400 ms (FindLiveObjects: 0.665700 ms CreateObjectMapping: 1.823200 ms MarkObjects: 15.616800 ms  DeleteObjects: 1.133900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 8151.401034 seconds.
+  path: Assets/SayCheese/_Scenes/DeformTrial_01.unity
+  artifactKey: Guid(b63f139cc0bc2fb4781bfde94f8a6ab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SayCheese/_Scenes/DeformTrial_01.unity using Guid(b63f139cc0bc2fb4781bfde94f8a6ab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b899ddf3d7cf8229a87c39e89b48756b') in 15.520183 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004400 seconds.
+  path: Assets/SayCheese/_Scenes/CheeseCut.unity
+  artifactKey: Guid(2708f90cbcf11c54e8c6064263d7baa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SayCheese/_Scenes/CheeseCut.unity using Guid(2708f90cbcf11c54e8c6064263d7baa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '143380a475abc17359edb72d14f518d3') in 0.052142 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 76.502447 seconds.
+  path: Assets/Deform/Code/Runtime/Core/Interfaces/IData.cs
+  artifactKey: Guid(978d1226fc1eaaf4987de3c1d79f9f25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Core/Interfaces/IData.cs using Guid(978d1226fc1eaaf4987de3c1d79f9f25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d318c5c814c960339f3e8767e59dbe8') in 0.027928 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.098026 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Data/ManagedMeshData.cs
+  artifactKey: Guid(c642f8e458fbd474abcf3cc2831e7af1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Data/ManagedMeshData.cs using Guid(c642f8e458fbd474abcf3cc2831e7af1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b52a29905c462805ebda0e8b8a85cc5') in 0.053336 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.088722 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/WaveDeformer.cs
+  artifactKey: Guid(e2fcf505b302dac45959bd67e47bd784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/WaveDeformer.cs using Guid(e2fcf505b302dac45959bd67e47bd784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f81f151ad14b9536fa438852ee6698fe') in 0.008682 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.044135 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/Tests/BzMeshDataEditorTests.cs
+  artifactKey: Guid(0ffa8bbcb51a81e409417eb97f167f27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/Tests/BzMeshDataEditorTests.cs using Guid(0ffa8bbcb51a81e409417eb97f167f27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f663666a3c142284cce0d61b848b804') in 0.008696 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.008639 seconds.
+  path: Assets/Deform/Code/External/Common/Beans.Unity.Editor/Editor/EditorGUIx.cs
+  artifactKey: Guid(013bc20e8b9be26498471f3bdf9e77aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/External/Common/Beans.Unity.Editor/Editor/EditorGUIx.cs using Guid(013bc20e8b9be26498471f3bdf9e77aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c78e079526b6e71803418d848482dd5e') in 0.007696 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.067738 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/BzSliceTryResult.cs
+  artifactKey: Guid(fc9a85ceb687fc74b8a9f2bbe8d12ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/BzSliceTryResult.cs using Guid(fc9a85ceb687fc74b8a9f2bbe8d12ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7be8ec63e2b3485146a1553930642e7c') in 0.033676 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.038951 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/Masking/Masks/BoxMask.cs
+  artifactKey: Guid(5a4430943d655634da255993a0703e5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/Masking/Masks/BoxMask.cs using Guid(5a4430943d655634da255993a0703e5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c4e23d76c6609b29af66802d612b3f7') in 0.010132 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007944 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Utility/Jobs/AddTriangleNormalToNormalsJob.cs
+  artifactKey: Guid(6ae4926164b17f44eb01e9e889ba9b42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Utility/Jobs/AddTriangleNormalToNormalsJob.cs using Guid(6ae4926164b17f44eb01e9e889ba9b42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14a96b4c013cc6c735f88bac2bd53ce9') in 0.007678 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.036462 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/Utility/RepeaterDeformerEditor.cs
+  artifactKey: Guid(5f7fb59f10f464d48a1feba7a5e6df1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/Utility/RepeaterDeformerEditor.cs using Guid(5f7fb59f10f464d48a1feba7a5e6df1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7da0409ed816cb05af4cc2d8ce06fd5e') in 0.007930 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.018185 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/Noise/NoiseDeformer.cs
+  artifactKey: Guid(19e6b07966ed66543b626a297452e4cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/Noise/NoiseDeformer.cs using Guid(19e6b07966ed66543b626a297452e4cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d488527afa3d5b7ab0a34a51ee33d96') in 0.009014 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.008825 seconds.
+  path: Assets/Deform/Code/Runtime/Data/Interfaces/IComponentElement.cs
+  artifactKey: Guid(45f1857074c12d940b3e8a49afef0d6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Data/Interfaces/IComponentElement.cs using Guid(45f1857074c12d940b3e8a49afef0d6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f98cc28c3f55843aa67fd2f92dcda34') in 0.008734 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012566 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/LatheDisplaceDeformer.cs
+  artifactKey: Guid(2ff50badd927c474c9972605e7300aea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/LatheDisplaceDeformer.cs using Guid(2ff50badd927c474c9972605e7300aea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd65dd5d737f2d10e0bccba538ad8f4f') in 0.007511 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.060062 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/CylindrifyDeformerEditor.cs
+  artifactKey: Guid(458db85642e33fe488853d3393b4a919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/CylindrifyDeformerEditor.cs using Guid(458db85642e33fe488853d3393b4a919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '508bcf06c0452b0d1c0b5b64a1319835') in 0.007594 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.018358 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Data/VertexCacheCreator.cs
+  artifactKey: Guid(ce30d4e52d83cf847839eaa3e9306b66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Data/VertexCacheCreator.cs using Guid(ce30d4e52d83cf847839eaa3e9306b66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a4f653c73bcea643a1b89e4c890ee0f') in 0.007667 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.060970 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/StaticComponentManager.cs
+  artifactKey: Guid(d6b2fb74b3073d34db6e2f59cdfc7b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/StaticComponentManager.cs using Guid(d6b2fb74b3073d34db6e2f59cdfc7b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0caf5f43e13c3b3a20ff104bb1df3b83') in 0.009447 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.009101 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/CubifyDeformerEditor.cs
+  artifactKey: Guid(3ee5282b793ce644199c8b7635a9e888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/CubifyDeformerEditor.cs using Guid(3ee5282b793ce644199c8b7635a9e888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ecc13bc4b610a027502181a732626e4') in 0.008454 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.008067 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/BulgeDeformerEditor.cs
+  artifactKey: Guid(946b50fe2453b234f874645e88a269d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/BulgeDeformerEditor.cs using Guid(946b50fe2453b234f874645e88a269d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7717dd38902db5fac5f9c62852963904') in 0.007971 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022381 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/Noise/PerlinNoiseDeformer.cs
+  artifactKey: Guid(cf7c8b14c36b67d41b7c0ca8bb4c9d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/Noise/PerlinNoiseDeformer.cs using Guid(cf7c8b14c36b67d41b7c0ca8bb4c9d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb1c703bf60b9b9b80afeb190fe66769') in 0.008018 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.026277 seconds.
+  path: Assets/SayCheese/_Shaders/StandardDoubleSide.shader
+  artifactKey: Guid(e540a724242ec164a926b4dc929e5cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SayCheese/_Shaders/StandardDoubleSide.shader using Guid(e540a724242ec164a926b4dc929e5cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd757da2556ba39b430e6edb1c0bcf664') in 4.937933 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.111427 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/TransformDeformer.cs
+  artifactKey: Guid(14852b84446997747a13435ca89db189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/TransformDeformer.cs using Guid(14852b84446997747a13435ca89db189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63d767fecfde24afecc5b8ddf81f69be') in 0.016700 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.009310 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/Samples/Scripts/AdderSliceableAsync.cs
+  artifactKey: Guid(ea8528dafb0f9cf43b2e4f22d610f179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/Samples/Scripts/AdderSliceableAsync.cs using Guid(ea8528dafb0f9cf43b2e4f22d610f179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b71f0e4d3c40286055310fdd18511022') in 0.010669 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.089548 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/Masking/MaskState.cs
+  artifactKey: Guid(6d25f77772eaf6c40a2f57768ad9bf62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/Masking/MaskState.cs using Guid(6d25f77772eaf6c40a2f57768ad9bf62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '697844b745662118ce2f4e83293023a9') in 0.045573 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012745 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/Masking/Masks/SphereMask.cs
+  artifactKey: Guid(b285007e8d49b734daa0804aaaec7375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/Masking/Masks/SphereMask.cs using Guid(b285007e8d49b734daa0804aaaec7375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00806a677b5e73e924677fc1afc3b7b8') in 0.011324 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.033301 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/InflateDeformerEditor.cs
+  artifactKey: Guid(aef144dabdb2f9b4cb1571fcd6cbcfb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/InflateDeformerEditor.cs using Guid(aef144dabdb2f9b4cb1571fcd6cbcfb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bd2560fca894df47b75baf865ae6acb') in 0.009499 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012722 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/LinkedLoop.cs
+  artifactKey: Guid(2bc00bf7346e98143a4017f451f3d846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/LinkedLoop.cs using Guid(2bc00bf7346e98143a4017f451f3d846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01255b5f4796742e1682927d08eb8e3a') in 0.010882 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.029226 seconds.
+  path: Assets/Deform/Code/Editor/Data/ReorderableComponentElementList.cs
+  artifactKey: Guid(62b049ab207776f47af1fb42c98d5020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Data/ReorderableComponentElementList.cs using Guid(62b049ab207776f47af1fb42c98d5020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2efa6c227e53e11c04e8d6fd09dec729') in 0.025169 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010234 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/Samples/Scripts/KnifeSliceableAsync.cs
+  artifactKey: Guid(eb4231669f3526949a4b889196486fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/Samples/Scripts/KnifeSliceableAsync.cs using Guid(eb4231669f3526949a4b889196486fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83fcff2c347398b5857b44b396acc28f') in 0.008798 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.028086 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Data/NativeMeshData.cs
+  artifactKey: Guid(8ae4c2850b3fd4b4f99d8e699fe66f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Data/NativeMeshData.cs using Guid(8ae4c2850b3fd4b4f99d8e699fe66f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '397689d5cb1ce9609a637b7f5a25287c') in 0.008135 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.041167 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/BlendDeformer.cs
+  artifactKey: Guid(0e395330b9cf9f041967903d69693875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/BlendDeformer.cs using Guid(0e395330b9cf9f041967903d69693875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d65824c7b35da5fb72553132ec3e9a2') in 0.011496 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.027559 seconds.
+  path: Assets/Deform/Code/Editor/PropertyDrawers/DeformerElementPropertyDrawer.cs
+  artifactKey: Guid(985a69c2136d9f54c87601036645ab79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/PropertyDrawers/DeformerElementPropertyDrawer.cs using Guid(985a69c2136d9f54c87601036645ab79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '766702363abfb536b191c07e96cfab67') in 0.009228 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.021858 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/MeshTriangleOptimizer.cs
+  artifactKey: Guid(6b1711958107d9b4f95d5829a4d38bf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/MeshTriangleOptimizer.cs using Guid(6b1711958107d9b4f95d5829a4d38bf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '918e53993835e3a50ed67acd514bfa17') in 0.008576 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.058710 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/Polygon/BzPolyLoop.cs
+  artifactKey: Guid(df85013d6916f4f65924fba21b367b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/Polygon/BzPolyLoop.cs using Guid(df85013d6916f4f65924fba21b367b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71c2f517c9011d566ef82f05f4923a87') in 0.007742 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016776 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/LazyActionRunner.cs
+  artifactKey: Guid(4403ce98098604efdb8b7cf63b79d024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/LazyActionRunner.cs using Guid(4403ce98098604efdb8b7cf63b79d024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1601cb044cd4f92bab9f96f337c302ea') in 0.007953 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.036384 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Utility/Jobs/RecalculateBoundsJob.cs
+  artifactKey: Guid(8a674b091f7a44b42953773585b73e20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Utility/Jobs/RecalculateBoundsJob.cs using Guid(8a674b091f7a44b42953773585b73e20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '409b5398f12365849d4fa465b271031f') in 0.008761 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007657 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/SliceTryItem.cs
+  artifactKey: Guid(79e1930dba8c43e488395232c01f3e8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/SliceTryItem.cs using Guid(79e1930dba8c43e488395232c01f3e8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1083e19ade2795445ce938aff79e629f') in 0.019997 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.046697 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/SineDeformerEditor.cs
+  artifactKey: Guid(847ec53de1be9344780fafbcbe084981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/SineDeformerEditor.cs using Guid(847ec53de1be9344780fafbcbe084981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f831087b8fd522c5c00c6ccb5bed7972') in 0.007929 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.047663 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/SpherifyDeformerEditor.cs
+  artifactKey: Guid(77510b7b5ef6fb04698aa0ff5655febe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/SpherifyDeformerEditor.cs using Guid(77510b7b5ef6fb04698aa0ff5655febe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '820ebcc851e7f33e835b2a251db7a440') in 0.007638 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016055 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/TransformOffsetDeformerEditor.cs
+  artifactKey: Guid(d480360d3bfe05240aba2d3e4597e2b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/TransformOffsetDeformerEditor.cs using Guid(d480360d3bfe05240aba2d3e4597e2b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d8b29cdbe875a83f223f19fab725720') in 0.007451 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.043220 seconds.
+  path: Assets/Deform/Code/Runtime/Enums/BoundsRecalculation.cs
+  artifactKey: Guid(b52b9f7dd9475b44bbb9498c76644907) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Enums/BoundsRecalculation.cs using Guid(b52b9f7dd9475b44bbb9498c76644907) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f028678d9813b87e8f91dbab963c4441') in 0.008136 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.009057 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Data/Enums/DataFlags.cs
+  artifactKey: Guid(1f7f09701b7b5ac41b7a5fe033dbde76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Data/Enums/DataFlags.cs using Guid(1f7f09701b7b5ac41b7a5fe033dbde76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a3496e6ce8b9f2616821c625549a6f7') in 0.009859 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.044552 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/Tests/LinkedLoopTests.cs
+  artifactKey: Guid(ed6bb680962aa7b4cb93782873202ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/Tests/LinkedLoopTests.cs using Guid(ed6bb680962aa7b4cb93782873202ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa24ad58306e180976018762aa7ff736') in 0.007323 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.044061 seconds.
+  path: Assets/BzKovSoft/CharacterSlicer/Samples/Scripts/CharacterSlicerSampleFast.cs
+  artifactKey: Guid(48e9137bd1dbf924fae2d2c1d01e5095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/CharacterSlicer/Samples/Scripts/CharacterSlicerSampleFast.cs using Guid(48e9137bd1dbf924fae2d2c1d01e5095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e581dbdabf023686e96a5cccd5389f3') in 0.008441 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.056764 seconds.
+  path: Assets/Deform/Code/Editor/DeformUnityObjectSelection.cs
+  artifactKey: Guid(d0d51f534bf242d6bbaa39e929a52cf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/DeformUnityObjectSelection.cs using Guid(d0d51f534bf242d6bbaa39e929a52cf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5ece61c304d4b061fb4c9e66f194da3') in 0.032884 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.067786 seconds.
+  path: Assets/Deform/Code/Runtime/Core/DeformableManager.cs
+  artifactKey: Guid(0b1869e2fda51114d95d8a3a821403ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Core/DeformableManager.cs using Guid(0b1869e2fda51114d95d8a3a821403ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73e8c938d638f4caee1c142058a4ca28') in 0.023423 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.089885 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/SkewDeformer.cs
+  artifactKey: Guid(fc251f4126fb2034f9ca62dcf231d638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/SkewDeformer.cs using Guid(fc251f4126fb2034f9ca62dcf231d638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f1b5861b34c48b836f7a198bee100b5') in 0.007778 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.027894 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/Polygon/LoopIndex.cs
+  artifactKey: Guid(2d216a47812234f90bf07e542af7459b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/Polygon/LoopIndex.cs using Guid(2d216a47812234f90bf07e542af7459b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f31b39d266046d86d1d2eefc95b433f1') in 0.007383 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.085841 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/CurveScaleDeformer.cs
+  artifactKey: Guid(950f41f1c16a84b4187ebed0a0a86042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/CurveScaleDeformer.cs using Guid(950f41f1c16a84b4187ebed0a0a86042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccb8a27d85c14485ab7ba6b68a5cc3a9') in 0.008128 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.040197 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/Samples/Scripts/SampleManualSlicer.cs
+  artifactKey: Guid(c849b1b01950b7f4ba2fd81bbd2ed9ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/Samples/Scripts/SampleManualSlicer.cs using Guid(c849b1b01950b7f4ba2fd81bbd2ed9ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89a00620dde6b1d5d48ddee87354ce76') in 0.009624 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.037770 seconds.
+  path: Assets/Deform/Code/Editor/CreditsWindow.cs
+  artifactKey: Guid(3bd1a68bc6078e349b650922ad5da620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/CreditsWindow.cs using Guid(3bd1a68bc6078e349b650922ad5da620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '787252b83dddb2f1609f1701e8f3465b') in 0.009843 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.036574 seconds.
+  path: Assets/Deform/Code/Runtime/Data/NativeTexture2D.cs
+  artifactKey: Guid(9674dde8727bab74eb29372fce7564a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Data/NativeTexture2D.cs using Guid(9674dde8727bab74eb29372fce7564a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d66a5e3b423ce0a204a8d1ee7d05e3e') in 0.008173 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.008224 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Utility/Jobs/TransformPointsJob.cs
+  artifactKey: Guid(ede7a7f33f3324240b48da164bd0cdae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Utility/Jobs/TransformPointsJob.cs using Guid(ede7a7f33f3324240b48da164bd0cdae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '047f7c5370f52b268a56ee3434d5028e') in 0.020717 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.058157 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/Utility/GroupDeformer.cs
+  artifactKey: Guid(c1b40265afce7b8438e35763b205996d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/Utility/GroupDeformer.cs using Guid(c1b40265afce7b8438e35763b205996d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fa1f953348562b55529ac648ce4cb63') in 0.008900 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.027702 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/MeltDeformer.cs
+  artifactKey: Guid(feaf6a21652998b4d992fcf65d881d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/MeltDeformer.cs using Guid(feaf6a21652998b4d992fcf65d881d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4eded4a39d21db1dcc1e1b1f9fc0bb7') in 0.008349 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007368 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/BzSliceTryData.cs
+  artifactKey: Guid(3f256c9beb2de5747b16d244c82f3404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/BzSliceTryData.cs using Guid(3f256c9beb2de5747b16d244c82f3404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a74340762ecf0fbdd6b5f5d8e2e4675a') in 0.008677 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.024515 seconds.
+  path: Assets/Deform/Code/Runtime/Enums/ColliderRecalculation.cs
+  artifactKey: Guid(fc3f9bcfb240cf74f9b140dfb6af725d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Enums/ColliderRecalculation.cs using Guid(fc3f9bcfb240cf74f9b140dfb6af725d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2f35d989fb542bf227cc7761aa92f82') in 0.009597 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.034021 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/Masking/Masks/SphereMaskEditor.cs
+  artifactKey: Guid(4e91177af36100140b5b9aa283e38403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/Masking/Masks/SphereMaskEditor.cs using Guid(4e91177af36100140b5b9aa283e38403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73771b5d1480810b8bf3037354d6d990') in 0.008137 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.038885 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/IO/ObjExporter.cs
+  artifactKey: Guid(4d3ef6ecb504f2e4aacaacc4e06a0aea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/IO/ObjExporter.cs using Guid(4d3ef6ecb504f2e4aacaacc4e06a0aea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b53998ef968abf87da9f14333806decf') in 0.008153 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.043646 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Data/MeshTarget.cs
+  artifactKey: Guid(93058c81890bdb84da7c7f913a07b65d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Data/MeshTarget.cs using Guid(93058c81890bdb84da7c7f913a07b65d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98135f3f5d382a2ee1c3ea10262c2336') in 0.007969 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.037302 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/LatticeDeformer.cs
+  artifactKey: Guid(164951b62cfd417ea4992d9635407735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/LatticeDeformer.cs using Guid(164951b62cfd417ea4992d9635407735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd996f3ab7e329f3c15f085966fc6740d') in 0.008454 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.029868 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/TwirlDeformerEditor.cs
+  artifactKey: Guid(37fd0b71592e07f42b2329fe9801af16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/TwirlDeformerEditor.cs using Guid(37fd0b71592e07f42b2329fe9801af16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17d66ba5eac7d94c8e4ddfce6af35e91') in 0.007893 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.041103 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/UVScaleDeformerEditor.cs
+  artifactKey: Guid(350f8295d569e764f915a84007333880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/UVScaleDeformerEditor.cs using Guid(350f8295d569e764f915a84007333880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6c4151d6fe6107d1c1b6157e1ecd8d4') in 0.008857 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.018032 seconds.
+  path: Assets/Deform/Code/Runtime/Enums/UpdateMode.cs
+  artifactKey: Guid(332c056e325c83b4b8305aeb266cdc36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Enums/UpdateMode.cs using Guid(332c056e325c83b4b8305aeb266cdc36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a54472c097c916b84f0cdd7deff5ba5') in 0.008583 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011213 seconds.
+  path: Assets/SayCheese/_Material/Environment/Default.mat
+  artifactKey: Guid(091425f820683394b9ba623e6a2b55b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SayCheese/_Material/Environment/Default.mat using Guid(091425f820683394b9ba623e6a2b55b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7568bc62caa0a0f8cd19ddd60abb3e71') in 2.753844 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.119292 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/WaveDeformerEditor.cs
+  artifactKey: Guid(55a59844beb98d442b957d6a02370373) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/WaveDeformerEditor.cs using Guid(55a59844beb98d442b957d6a02370373) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e894640dd4505e1931144a75c57d313f') in 0.011969 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.037410 seconds.
+  path: Assets/Deform/Code/External/Common/Beans.Unity.Editor/Editor/EditorGUILayoutx.cs
+  artifactKey: Guid(5735777fff2c5554e9519cde288b7dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/External/Common/Beans.Unity.Editor/Editor/EditorGUILayoutx.cs using Guid(5735777fff2c5554e9519cde288b7dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30d63e3111d31360209c00d41703adce') in 0.010285 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.055693 seconds.
+  path: Assets/Deform/Code/Runtime/Core/Interfaces/IDeformer.cs
+  artifactKey: Guid(d14a6c5ededca414988def4dd74990ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Core/Interfaces/IDeformer.cs using Guid(d14a6c5ededca414988def4dd74990ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ac58ece08f5cf6ccbabdfc4c33af80a') in 0.010149 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.063001 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Utility/Jobs/AddFloat3ToFloat3sJob.cs
+  artifactKey: Guid(d06fe6a6235f33947aea330c2c2de40f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Utility/Jobs/AddFloat3ToFloat3sJob.cs using Guid(d06fe6a6235f33947aea330c2c2de40f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '270af1822732c4f37cdd06b2480153eb') in 0.010164 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.038796 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/BzTriangle.cs
+  artifactKey: Guid(39b462ee51b4fd944b8cd1d456eda9e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/BzTriangle.cs using Guid(39b462ee51b4fd944b8cd1d456eda9e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e9ea57dcaee064e366bc69b7a149e75') in 0.009192 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.035749 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/Noise/CellularNoiseDeformer.cs
+  artifactKey: Guid(9565c40fea3565b4b8eeccfcec5a2112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/Noise/CellularNoiseDeformer.cs using Guid(9565c40fea3565b4b8eeccfcec5a2112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '226333a8ae743f8a1a63ab235ab0da9e') in 0.008813 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.035911 seconds.
+  path: Assets/Deform/Code/Editor/MenuItemActions.cs
+  artifactKey: Guid(1f19a8e85e05eef488f714947b932d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/MenuItemActions.cs using Guid(1f19a8e85e05eef488f714947b932d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80789e7db07fe6d217f7ad645db7bf9a') in 0.007368 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.056820 seconds.
+  path: Assets/BzKovSoft/CharacterSlicer/CharacterSlicerInitializer.cs
+  artifactKey: Guid(20ca92d9bc031426e914f19f959e5124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/CharacterSlicer/CharacterSlicerInitializer.cs using Guid(20ca92d9bc031426e914f19f959e5124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e52e536fceb0c6b1d1153b317c62648') in 0.007736 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.110323 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/Utility/AutoGroupDeformerEditor.cs
+  artifactKey: Guid(8cfa6699aae95934d9261f538129b4f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/Utility/AutoGroupDeformerEditor.cs using Guid(8cfa6699aae95934d9261f538129b4f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cc995e7d86362e2436ae8cc03003c9a') in 0.011995 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.009454 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Utility/Jobs/TransformPointsFromJob.cs
+  artifactKey: Guid(31ca3dc5b3e04ae46b66ea6f26c229c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Utility/Jobs/TransformPointsFromJob.cs using Guid(31ca3dc5b3e04ae46b66ea6f26c229c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3aa9e48d311b83abfd73ea046927209') in 0.018200 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.009317 seconds.
+  path: Assets/Deform/Code/Editor/PropertyDrawers/DisplayNameDrawer.cs
+  artifactKey: Guid(71d700410365435b8cf0325a29250c71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/PropertyDrawers/DisplayNameDrawer.cs using Guid(71d700410365435b8cf0325a29250c71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f70e9efbcc485ade7fbb2c6f908b14b6') in 0.010094 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.050651 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/Tests/BzPolyTests.cs
+  artifactKey: Guid(a27c43b6eee7d497c9dd5c762af42671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/Tests/BzPolyTests.cs using Guid(a27c43b6eee7d497c9dd5c762af42671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2744c22e3917a32131a3bd839aadc061') in 0.007122 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.042744 seconds.
+  path: Assets/BzKovSoft/CheeseSlicerAssets2/GameManager.cs
+  artifactKey: Guid(92dfe76c6684ea944926b541e61fdb54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/CheeseSlicerAssets2/GameManager.cs using Guid(92dfe76c6684ea944926b541e61fdb54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee5edfcc83378dcbbffb7f19775b09eb') in 0.008497 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.008030 seconds.
+  path: Assets/BzKovSoft/CheeseSlicerAssets2/Katana.cs
+  artifactKey: Guid(cd990c7dd4834fe428715de33976b037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/CheeseSlicerAssets2/Katana.cs using Guid(cd990c7dd4834fe428715de33976b037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55d59afbc3af6a845ff7862142192a21') in 0.008314 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.045032 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/StarDeformerEditor.cs
+  artifactKey: Guid(f0a8becc7558d75489eaf29021eaecb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/StarDeformerEditor.cs using Guid(f0a8becc7558d75489eaf29021eaecb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '555db76f85c0e85b7c089a879793b560') in 0.007240 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.021396 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/IBzSliceable.cs
+  artifactKey: Guid(1b80fd9f6e94c734b8deb8c04ad86431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/IBzSliceable.cs using Guid(1b80fd9f6e94c734b8deb8c04ad86431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95f47f1deff441ae43576445783ca51e') in 0.007630 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.067939 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Data/DeformerElement.cs
+  artifactKey: Guid(b4a1f53294ffd49409f80fdf2643f0a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Data/DeformerElement.cs using Guid(b4a1f53294ffd49409f80fdf2643f0a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8aa4dff040e0e4f4492cd70effe2f4c9') in 0.008468 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.030841 seconds.
+  path: Assets/BzKovSoft/CharacterSlicer/CharacterComponentManagerFast.cs
+  artifactKey: Guid(0dabcd1fd1e0ffb4cb0e4004cbe1c412) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/CharacterSlicer/CharacterComponentManagerFast.cs using Guid(0dabcd1fd1e0ffb4cb0e4004cbe1c412) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6610e03897d0b98595fb8a9fffd1ac10') in 0.009032 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.023265 seconds.
+  path: Assets/Deform/Code/Editor/Core/DeformableManagerEditor.cs
+  artifactKey: Guid(22fc03601b935444ca03c5307c6f62b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Core/DeformableManagerEditor.cs using Guid(22fc03601b935444ca03c5307c6f62b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f55ac570958de8efe9a0b4a1d4005417') in 0.006948 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.024100 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/InflateDeformer.cs
+  artifactKey: Guid(acdd962eebcfa2e46b666901259e730f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/InflateDeformer.cs using Guid(acdd962eebcfa2e46b666901259e730f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a6b2f1b4d3c0815282caf4a76bc8225') in 0.007207 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.020968 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/RippleDeformer.cs
+  artifactKey: Guid(da8c1a6b83746ac4fa56f9f529c1adb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/RippleDeformer.cs using Guid(da8c1a6b83746ac4fa56f9f529c1adb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93563a5ecdb3994563728f9c5423bd15') in 0.007659 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022759 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/BlendDeformerEditor.cs
+  artifactKey: Guid(11512545e091ff142bd5b986d85278ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/BlendDeformerEditor.cs using Guid(11512545e091ff142bd5b986d85278ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa76598c3cd70a672eef141087e9512d') in 0.008282 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.029918 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/MeltDeformerEditor.cs
+  artifactKey: Guid(601f0ed525cf9b340a5ec6e1d7538755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/MeltDeformerEditor.cs using Guid(601f0ed525cf9b340a5ec6e1d7538755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed687835113381f3e42f265ad0c8167f') in 0.007519 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017351 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/MeshGenerator/IcoSphere.cs
+  artifactKey: Guid(8a3b7455b8fe1144899c77755bd5603a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/MeshGenerator/IcoSphere.cs using Guid(8a3b7455b8fe1144899c77755bd5603a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31772faa810def50c5954b505ba1a541') in 0.044785 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.025233 seconds.
+  path: Assets/Deform/Code/Runtime/Enums/CullingMode.cs
+  artifactKey: Guid(08ab2df06e6e2704cb445ccdfaba7882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Enums/CullingMode.cs using Guid(08ab2df06e6e2704cb445ccdfaba7882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49716db7b077cb0fde21563ee1704170') in 0.007684 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.009836 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Utility/Jobs/ResetNormalsJob.cs
+  artifactKey: Guid(4f3e0100f1881844ca825e842cc945d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Utility/Jobs/ResetNormalsJob.cs using Guid(4f3e0100f1881844ca825e842cc945d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf18fe047f163554fee3f14f43a347a3') in 0.010424 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007736 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/Noise/NoiseDeformerEditor.cs
+  artifactKey: Guid(2fb8c7c2e10780f4e8435e47e9df61b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/Noise/NoiseDeformerEditor.cs using Guid(2fb8c7c2e10780f4e8435e47e9df61b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07813c3d680f3bccd70260c76716dda6') in 0.007396 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013242 seconds.
+  path: Assets/Deform/Code/Runtime/Core/Interfaces/IDeformable.cs
+  artifactKey: Guid(495e43d5f3429c847a01d6309186e27a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Core/Interfaces/IDeformable.cs using Guid(495e43d5f3429c847a01d6309186e27a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adf42171bcc7eead3f309365e56d1a07') in 0.007119 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017577 seconds.
+  path: Assets/Deform/Code/Runtime/Data/NativeCurve.cs
+  artifactKey: Guid(359e6288b087835489ed78a3f803f778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Data/NativeCurve.cs using Guid(359e6288b087835489ed78a3f803f778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd04b79b9cb7af5ca0fa579eb05f5c8ab') in 0.007329 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007530 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Data/Enums/UpdateFrequency.cs
+  artifactKey: Guid(e90dd3179ea2f3641b4984ca9f2de996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Data/Enums/UpdateFrequency.cs using Guid(e90dd3179ea2f3641b4984ca9f2de996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f45b58e90f40ba46248eade33e243d81') in 0.008091 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013755 seconds.
+  path: Assets/SayCheese/_Scripts/Level/SliceController.cs
+  artifactKey: Guid(d71c3ee25b5396b46a06e9a5597c85d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SayCheese/_Scripts/Level/SliceController.cs using Guid(d71c3ee25b5396b46a06e9a5597c85d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f54080447601e0042523939f5aabfb9') in 0.008861 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.006722 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/IBzSliceAdapter.cs
+  artifactKey: Guid(5a20694c0476548c996d8499c178fed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/IBzSliceAdapter.cs using Guid(5a20694c0476548c996d8499c178fed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8bc5e75c582e4ef25be08a6d44f3318') in 0.007677 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007637 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Data/Enums/ColorChannel.cs
+  artifactKey: Guid(fd2a1a9d988144f4b943f5ebd31f62ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Data/Enums/ColorChannel.cs using Guid(fd2a1a9d988144f4b943f5ebd31f62ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38b046d365b66a3dd087c4140fbc5d11') in 0.007909 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.029851 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Utility/Jobs/ElasticPointsUpdateJob.cs
+  artifactKey: Guid(6dee34a9daf07094c974e187670d330e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Utility/Jobs/ElasticPointsUpdateJob.cs using Guid(6dee34a9daf07094c974e187670d330e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd7a357ca00b245d08b8b8fd4d12bcc5') in 0.007851 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.021862 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/TaperDeformer.cs
+  artifactKey: Guid(ff95348e66c127a44911878f6490439c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/TaperDeformer.cs using Guid(ff95348e66c127a44911878f6490439c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2103ea710fd52479fd2b76fefc6c755') in 0.007317 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.041970 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/LatticeDeformerEditor.cs
+  artifactKey: Guid(b77dcb044ea84a9f9407ca0f2b9a15a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/LatticeDeformerEditor.cs using Guid(b77dcb044ea84a9f9407ca0f2b9a15a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec5403ee3d1a637726e02e0057134b32') in 0.007034 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.039804 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/TwirlDeformer.cs
+  artifactKey: Guid(c810b6e889701bc4a88b8aad76a8bea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/TwirlDeformer.cs using Guid(c810b6e889701bc4a88b8aad76a8bea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '748b090f881ae993fc99794d58768673') in 0.009492 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.033535 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/Samples/Scripts/MoveCamera.cs
+  artifactKey: Guid(252344ea073c3274693644bf38e0e942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/Samples/Scripts/MoveCamera.cs using Guid(252344ea073c3274693644bf38e0e942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d97c531de603b552b9412dcd46e8e2d') in 0.008135 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011223 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/CurveDisplaceDeformerEditor.cs
+  artifactKey: Guid(854dbd972d4677246927ca411c9301f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/CurveDisplaceDeformerEditor.cs using Guid(854dbd972d4677246927ca411c9301f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebdded3f8723bb6094f1a42a44f9660d') in 0.007379 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.044817 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/UVOffsetDeformerEditor.cs
+  artifactKey: Guid(0c9a4c9523ee24146ac226c166b1b065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/UVOffsetDeformerEditor.cs using Guid(0c9a4c9523ee24146ac226c166b1b065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '167fb7b01082e0ba9e6190ffa991569e') in 0.007697 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014265 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/FallingObjGC.cs
+  artifactKey: Guid(97722b24589974a4a977fb7f0a096d97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/FallingObjGC.cs using Guid(97722b24589974a4a977fb7f0a096d97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dcfbe020b7eb8c4bdbb236d3c2fef1e') in 0.008402 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.139720 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/BzMeshDataDissector.cs
+  artifactKey: Guid(58b718d0ed632844486757eae39c3490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/BzMeshDataDissector.cs using Guid(58b718d0ed632844486757eae39c3490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8689677d1c12f73c3013ccd35f163f58') in 0.010380 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.008556 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/LatheDisplaceDeformerEditor.cs
+  artifactKey: Guid(95a0f8b3c2326a44391c0a318983fc3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/LatheDisplaceDeformerEditor.cs using Guid(95a0f8b3c2326a44391c0a318983fc3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e2570a2a922732aed2ace0c978cf73c') in 0.008525 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.034115 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/Interfaces/IFactor.cs
+  artifactKey: Guid(fa3939417689d51418e2ee8ccd769154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/Interfaces/IFactor.cs using Guid(fa3939417689d51418e2ee8ccd769154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a92669ed71c3a299163b3a6f8ea8b7ea') in 0.008528 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007021 seconds.
+  path: Assets/Deform/Code/Runtime/Enums/NormalsRecalculation.cs
+  artifactKey: Guid(3f89a45a3f1ddb748ac2b0a8856ac242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Enums/NormalsRecalculation.cs using Guid(3f89a45a3f1ddb748ac2b0a8856ac242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcfa684b7d75ef11dc162a7769433f4d') in 0.007974 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.026007 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/TwistDeformerEditor.cs
+  artifactKey: Guid(9c77044d1951ae3448a79cae4a85b7c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/TwistDeformerEditor.cs using Guid(9c77044d1951ae3448a79cae4a85b7c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94cdce4f3c86631718c1e9ae55920561') in 0.007519 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.038108 seconds.
+  path: Assets/SayCheese/_Scripts/Level/Sliceable.cs
+  artifactKey: Guid(e94bccfb1ca21914ba8ba49f687b880d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SayCheese/_Scripts/Level/Sliceable.cs using Guid(e94bccfb1ca21914ba8ba49f687b880d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4540c9a92d7d76ed8574283e96b01d3b') in 0.007432 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.008554 seconds.
+  path: Assets/Deform/Code/Runtime/Enums/NoiseMode.cs
+  artifactKey: Guid(03e2450676612c64cb156d2b7143d51c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Enums/NoiseMode.cs using Guid(03e2450676612c64cb156d2b7143d51c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a64b4f14bc79f6e18f138502066256b1') in 0.008830 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.082330 seconds.
+  path: Assets/Deform/Code/Editor/DeformModelPostProcessor.cs
+  artifactKey: Guid(e6a742a56a27f2d4da0c0b7f05536b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/DeformModelPostProcessor.cs using Guid(e6a742a56a27f2d4da0c0b7f05536b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dfbac44b650b4a1be326719985cf7a8') in 0.013568 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.028625 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/Samples/Scripts/SampleKnifeSlicer.cs
+  artifactKey: Guid(200ded9909662e34a8fc05744a57ed3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/Samples/Scripts/SampleKnifeSlicer.cs using Guid(200ded9909662e34a8fc05744a57ed3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '577dca2aa8bb0f63c5903532c6b9a5d6') in 0.009874 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.049260 seconds.
+  path: Assets/Deform/Code/Editor/CreatorWindow.cs
+  artifactKey: Guid(4285705c990c5f745a348d44391c1cc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/CreatorWindow.cs using Guid(4285705c990c5f745a348d44391c1cc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3872f6f10a79a3e851a96ec88cb1a6c1') in 0.009133 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013318 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/EventHandlers/BzDeleteSecondJoint.cs
+  artifactKey: Guid(c11824ca1a8bdd94cb53a73eb37afc87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/EventHandlers/BzDeleteSecondJoint.cs using Guid(c11824ca1a8bdd94cb53a73eb37afc87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe4464a5ef384c6f46da546b8cbba7ea') in 0.010149 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.021108 seconds.
+  path: Assets/Deform/Code/Editor/DeformEditorGUIUtility.cs
+  artifactKey: Guid(23cfd6dfadf5bc64182cdd633a333399) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/DeformEditorGUIUtility.cs using Guid(23cfd6dfadf5bc64182cdd633a333399) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e1db47f8c6932e6edb81ef203c388a7') in 0.008984 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.027350 seconds.
+  path: Assets/Deform/Code/External/Common/Beans.Unity.Mathematics/mathx.cs
+  artifactKey: Guid(e89869283504ca44c86931d88d2009ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/External/Common/Beans.Unity.Mathematics/mathx.cs using Guid(e89869283504ca44c86931d88d2009ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c55f08fb7317d1ddf83ba6b1615e530b') in 0.009806 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014405 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/CylindrifyDeformer.cs
+  artifactKey: Guid(4444a259de86ca34683e363b3f0a9a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/CylindrifyDeformer.cs using Guid(4444a259de86ca34683e363b3f0a9a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eba82f7b24267ec9f40853c9ea7d8839') in 0.010673 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.008722 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/SliceTry.cs
+  artifactKey: Guid(e7a417f9ea20f8e4db36461c57673f1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/SliceTry.cs using Guid(e7a417f9ea20f8e4db36461c57673f1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ad87535077e2b949a864091a725d34e') in 0.011657 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.029485 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/BulgeDeformer.cs
+  artifactKey: Guid(31cc9606f5ae2c6419582850b06a38c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/BulgeDeformer.cs using Guid(31cc9606f5ae2c6419582850b06a38c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18de796da4f855c898c161cff1e61361') in 0.014908 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014644 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/RippleDeformerEditor.cs
+  artifactKey: Guid(e19269ad081089144b1b61541685062d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/RippleDeformerEditor.cs using Guid(e19269ad081089144b1b61541685062d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02784c369e8331aa7a3186cf629c21ea') in 0.010440 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.018832 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/Samples/Scripts/SampleMouseSlicer.cs
+  artifactKey: Guid(ae38745bd230f894fb59c8f5615bb83b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/Samples/Scripts/SampleMouseSlicer.cs using Guid(ae38745bd230f894fb59c8f5615bb83b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '613f3970a24a74e09c49bdb67cc8eb81') in 0.010653 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.009042 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/EventHandlers/BzFixMass.cs
+  artifactKey: Guid(060f8a5d533f14744b060795ce26b168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/EventHandlers/BzFixMass.cs using Guid(060f8a5d533f14744b060795ce26b168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daa3e58866b8a4c1dcb2f86fcd839639') in 0.008974 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.019926 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/SineDeformer.cs
+  artifactKey: Guid(539e0e200eedc414490864f0aef76f31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/SineDeformer.cs using Guid(539e0e200eedc414490864f0aef76f31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de3acb04a731fded938d883c186fc1e6') in 0.008716 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.044728 seconds.
+  path: Assets/Deform/Code/External/Common/Beans.Unity.Editor/Editor/EditorChangeScope.cs
+  artifactKey: Guid(976bebb7c18974d46ad4b50338634c88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/External/Common/Beans.Unity.Editor/Editor/EditorChangeScope.cs using Guid(976bebb7c18974d46ad4b50338634c88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '603ecf23bc62e144bb96c279b2ef2d6c') in 0.007173 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.050255 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/Tests/MeshTriangleOptimizerTests.cs
+  artifactKey: Guid(21938fff25b575846a28c98fe04b3d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/Tests/MeshTriangleOptimizerTests.cs using Guid(21938fff25b575846a28c98fe04b3d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd21b58c20206056b88e6de0297dd3c2c') in 0.010385 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.018350 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Utility/MeshUtils.cs
+  artifactKey: Guid(3da1326ebee5283409e134934bca022c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Utility/MeshUtils.cs using Guid(3da1326ebee5283409e134934bca022c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '565eae36c48827364f13de16d3fe7922') in 0.008964 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.057723 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/BzMeshDataEditor.cs
+  artifactKey: Guid(de19b438ad522424ba1deaea07999528) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/BzMeshDataEditor.cs using Guid(de19b438ad522424ba1deaea07999528) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb0448cfa63a26f3072afa2e680c2bc7') in 0.011407 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.051240 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/Utility/AutoGroupDeformer.cs
+  artifactKey: Guid(83b9d9308299813479bf0d4304e5e6cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/Utility/AutoGroupDeformer.cs using Guid(83b9d9308299813479bf0d4304e5e6cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce1452ab7e54f9723e75ad585eb23a21') in 0.008310 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.009395 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Data/VertexCacheEditor.cs
+  artifactKey: Guid(d1917b9cad20a82458917dfb09d51f08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Data/VertexCacheEditor.cs using Guid(d1917b9cad20a82458917dfb09d51f08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33c996bb2486a8b065fa603c8446496c') in 0.009091 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.046808 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/ScaleDeformer.cs
+  artifactKey: Guid(52700621f4ff4e040b59281033c4d699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/ScaleDeformer.cs using Guid(52700621f4ff4e040b59281033c4d699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6ef3b9b8d9aa5170551b5fb90e075b2') in 0.008681 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.008503 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/EventHandlers/BzReaplyForce.cs
+  artifactKey: Guid(f3831578e3316d041b73e0e29a8c2dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/EventHandlers/BzReaplyForce.cs using Guid(f3831578e3316d041b73e0e29a8c2dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa279a1a25ca3dbc40084f0775737443') in 0.007665 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012411 seconds.
+  path: Assets/Deform/Code/External/Common/Beans.Unity.Editor/Editor/Editorx.cs
+  artifactKey: Guid(3ce5c6786bf6f0247aef936dd81e59a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/External/Common/Beans.Unity.Editor/Editor/Editorx.cs using Guid(3ce5c6786bf6f0247aef936dd81e59a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6055aacf6d8529d7c82ddf88618d87a7') in 0.007901 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007562 seconds.
+  path: Assets/BzKovSoft/CharacterSlicer/Samples/Scripts/IDeadable.cs
+  artifactKey: Guid(1efc5e17cf5e0444f8051e527b438b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/CharacterSlicer/Samples/Scripts/IDeadable.cs using Guid(1efc5e17cf5e0444f8051e527b438b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28250559768c4f3e5638ead522a8c0b8') in 0.007639 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.079760 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/BoundedBendDeformer.cs
+  artifactKey: Guid(1af459629702eec47b3e29895526d7fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/BoundedBendDeformer.cs using Guid(1af459629702eec47b3e29895526d7fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '911f0ed52797ed4eaf11e4e207a21763') in 0.008086 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017437 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/Samples/Scripts/ObjectSlicerSample.cs
+  artifactKey: Guid(4e5cacb76cba02543ac5277e19a4100d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/Samples/Scripts/ObjectSlicerSample.cs using Guid(4e5cacb76cba02543ac5277e19a4100d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b92b64f1f4d86711b913e1e2463dbe5') in 0.008397 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.041831 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/DeformerEditor.cs
+  artifactKey: Guid(3654d68a8756a0c49acf1b696d66bb97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/DeformerEditor.cs using Guid(3654d68a8756a0c49acf1b696d66bb97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d40add3df4133ceb2007294dd350bb6') in 0.008566 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014769 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/Samples/Scripts/BzKnife.cs
+  artifactKey: Guid(d23b366537b31b54197288f122deabeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/Samples/Scripts/BzKnife.cs using Guid(d23b366537b31b54197288f122deabeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c82a5c53df0807df47b4e76848b66e6d') in 0.011399 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012106 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/ElasticDeformableEditor.cs
+  artifactKey: Guid(5d875b3ad5341754899398f089d821af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/ElasticDeformableEditor.cs using Guid(5d875b3ad5341754899398f089d821af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32a044a28b3923e46e9011ac97e4c469') in 0.008677 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.018080 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/Editor/RepeatSliceDialog.cs
+  artifactKey: Guid(d63a25f6c7aa9417a87b1981cc538609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/Editor/RepeatSliceDialog.cs using Guid(d63a25f6c7aa9417a87b1981cc538609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16735f34d620859e8ce00b83fba17542') in 0.008535 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.031192 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/ScaleDeformerEditor.cs
+  artifactKey: Guid(dbd6a90ffcd0eaf4d8a0707769ec9d66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/ScaleDeformerEditor.cs using Guid(dbd6a90ffcd0eaf4d8a0707769ec9d66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9636403723698cbe80f806b90f7fe540') in 0.007422 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.035977 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/BoundedBendDeformerEditor.cs
+  artifactKey: Guid(4562d8782226229409063ab4eed40058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/BoundedBendDeformerEditor.cs using Guid(4562d8782226229409063ab4eed40058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '824a26cff447acfc2e4852aea2024b8e') in 0.008174 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.008475 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/EventHandlers/BzSmoothDepenetration.cs
+  artifactKey: Guid(e2b31ce38a2694587bc429b0e6274a40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/EventHandlers/BzSmoothDepenetration.cs using Guid(e2b31ce38a2694587bc429b0e6274a40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4122e6a5ba300f670df86dc4fbe9556') in 0.008199 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.008280 seconds.
+  path: Assets/SayCheese/_Material/Cheese/Cheese.mat
+  artifactKey: Guid(e33b0c10e410561449c6e07120d200a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SayCheese/_Material/Cheese/Cheese.mat using Guid(e33b0c10e410561449c6e07120d200a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10b20f9a811b20df60de9073361ff1e5') in 0.261240 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.061589 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/Utility/GroupDeformerEditor.cs
+  artifactKey: Guid(df2b98bafc1c92842bb0d58ef153661c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/Utility/GroupDeformerEditor.cs using Guid(df2b98bafc1c92842bb0d58ef153661c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8db8f40d48778cece5f27b2dfb037035') in 0.008797 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.026276 seconds.
+  path: Assets/BzKovSoft/CharacterSlicer/Samples/Scripts/EnemyManager.cs
+  artifactKey: Guid(1f31e806c2aa5f24b921c93bde7846b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/CharacterSlicer/Samples/Scripts/EnemyManager.cs using Guid(1f31e806c2aa5f24b921c93bde7846b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7877b5b6d820867576002c1f4bc2a3de') in 0.007379 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015416 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/CurveScaleDeformerEditor.cs
+  artifactKey: Guid(20c761f71d931364793c4a2fa75566c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/CurveScaleDeformerEditor.cs using Guid(20c761f71d931364793c4a2fa75566c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e57ea8243a7eaa80ae0372e029c9a0be') in 0.007846 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.054242 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformable.cs
+  artifactKey: Guid(85212d1b13358614ca54e74ba56f93ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformable.cs using Guid(85212d1b13358614ca54e74ba56f93ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f41ea3527984cd9e73360fd9ecf805d4') in 0.007723 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010013 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/Polygon/LoopIndexCollection.cs
+  artifactKey: Guid(2954ffb45ebf8454aa7d89fc0f3ba1bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/Polygon/LoopIndexCollection.cs using Guid(2954ffb45ebf8454aa7d89fc0f3ba1bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d8f04a82e6ac079fa86580c6ca7ad19') in 0.009125 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022542 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/Masking/Masks/BoxMaskEditor.cs
+  artifactKey: Guid(07641f8e2fa04264883561cf714676b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/Masking/Masks/BoxMaskEditor.cs using Guid(07641f8e2fa04264883561cf714676b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f81bad18920d4db9b9cb193cead667c4') in 0.009135 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.199693 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/BendDeformer.cs
+  artifactKey: Guid(596018e53e94bfb4d9de7a811cb67477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/BendDeformer.cs using Guid(596018e53e94bfb4d9de7a811cb67477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '906668b3f8a381217916b4dd3e1271ab') in 0.010728 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.415693 seconds.
+  path: Assets/Deform/Code/Editor/DeformEditorSettingsAssetInspector.cs
+  artifactKey: Guid(712fd566a2714796808abe8a1ff4681d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/DeformEditorSettingsAssetInspector.cs using Guid(712fd566a2714796808abe8a1ff4681d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdb2e5d914d5bcea7c42b0882b035b38') in 0.009427 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.037335 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/Noise/PerlinNoiseDeformerEditor.cs
+  artifactKey: Guid(bf958626218e2a043b96bdf5ac42a02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/Noise/PerlinNoiseDeformerEditor.cs using Guid(bf958626218e2a043b96bdf5ac42a02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3491c37737fec6a5d2d994354831bdf5') in 0.009868 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.079841 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/ElasticDeformable.cs
+  artifactKey: Guid(28b9e154136439741967b20aad7a9bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/ElasticDeformable.cs using Guid(28b9e154136439741967b20aad7a9bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95f3efc97d3d46f3b15d5148f0eaba99') in 0.042657 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.125862 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/BzSliceColliderAdapter.cs
+  artifactKey: Guid(9884f925b6ad84809a4da65d1bd02473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/BzSliceColliderAdapter.cs using Guid(9884f925b6ad84809a4da65d1bd02473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '645d5a8301e9f76728f033e27303d848') in 0.009076 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.136898 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/Noise/CellularNoiseDeformerEditor.cs
+  artifactKey: Guid(099c71d011d4b294883ba1358d5a992a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/Noise/CellularNoiseDeformerEditor.cs using Guid(099c71d011d4b294883ba1358d5a992a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9682c1426a64d3d94d50d01e8cc097b8') in 0.008452 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.353523 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/MeshGenerator/Cube.cs
+  artifactKey: Guid(79dae79ca255b73439169ba753e9920d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/MeshGenerator/Cube.cs using Guid(79dae79ca255b73439169ba753e9920d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06c4e7c4d276a085214767ecfe792a84') in 0.007513 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.126698 seconds.
+  path: Assets/Deform/Code/External/Common/Beans.Unity.Editor/Editor/EditorGUIUtilityx.cs
+  artifactKey: Guid(aa35ed041c8f3674c8bc6445c42d3829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/External/Common/Beans.Unity.Editor/Editor/EditorGUIUtilityx.cs using Guid(aa35ed041c8f3674c8bc6445c42d3829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99a6126246d3fe2d27a2534bd21817b1') in 0.095399 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.034518 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/Polygon/PolyMeshData.cs
+  artifactKey: Guid(8b5408e8072f64720abc64a6315e9d68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/Polygon/PolyMeshData.cs using Guid(8b5408e8072f64720abc64a6315e9d68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '233e0024c95f476601ffa4aaf6c1379a') in 0.010559 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.109419 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/BzSlicerHelper.cs
+  artifactKey: Guid(c676b5c74c18a2044a24655d49f58627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/BzSlicerHelper.cs using Guid(c676b5c74c18a2044a24655d49f58627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9c11b5e931a066e64b98e46e4b17447') in 0.008442 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.163489 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/RadialSkewDeformer.cs
+  artifactKey: Guid(ab99a0dd7a7804e42a5a6e6e28cfa87f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/RadialSkewDeformer.cs using Guid(ab99a0dd7a7804e42a5a6e6e28cfa87f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28eabb6903c7079902d6adfe0c335722') in 0.008110 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.114240 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Utility/DeformerUtils.cs
+  artifactKey: Guid(131ead6987652604b8be8212e15ae618) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Utility/DeformerUtils.cs using Guid(131ead6987652604b8be8212e15ae618) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb6e3371b876a443993575040eedf850') in 0.058932 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.155230 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/SliceConfigurationDto.cs
+  artifactKey: Guid(2a195dcd8518fe549aed35ba4c9932f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/SliceConfigurationDto.cs using Guid(2a195dcd8518fe549aed35ba4c9932f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be0cb8fae71f54e923d08044bc335fad') in 0.007581 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.518791 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/RadialCurveDeformerEditor.cs
+  artifactKey: Guid(27a7eb8a387d31949b0027ad45eac311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/RadialCurveDeformerEditor.cs using Guid(27a7eb8a387d31949b0027ad45eac311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3191754e883cd8941367aa99b1825b2c') in 0.040514 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.285291 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/BzMeshData.cs
+  artifactKey: Guid(94444c35c4a45aa4cb25a7605446fe98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/BzMeshData.cs using Guid(94444c35c4a45aa4cb25a7605446fe98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f76c511b1ad64cf8ef87fbcd8ec3e791') in 0.042011 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.048691 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/BzSliceableBase.cs
+  artifactKey: Guid(093f072293a12e64a99ea80d52743ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/BzSliceableBase.cs using Guid(093f072293a12e64a99ea80d52743ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b887ecff549e071bdbd82d0d48967c12') in 0.020145 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.095086 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/TwistDeformer.cs
+  artifactKey: Guid(a2708e78dd60ea648ac0f9a73306e122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/TwistDeformer.cs using Guid(a2708e78dd60ea648ac0f9a73306e122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c66e8bd1a71f5441d020926231f9648f') in 0.007094 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.117663 seconds.
+  path: Assets/Deform/Code/External/Common/Beans.Unity.Mathematics/bounds.cs
+  artifactKey: Guid(bc5fdfbd584723d41913a862ac3c3c91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/External/Common/Beans.Unity.Mathematics/bounds.cs using Guid(bc5fdfbd584723d41913a862ac3c3c91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65833ef8467a78325e71ab3cfe8fec48') in 0.007490 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.570850 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/ObjectSlicerInitializer.cs
+  artifactKey: Guid(dc8af2f15d29243c589240b3cee512f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/ObjectSlicerInitializer.cs using Guid(dc8af2f15d29243c589240b3cee512f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6631368e76fcb8face1ca2bdd8152d86') in 0.009957 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.461747 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/RadialCurveDeformer.cs
+  artifactKey: Guid(c7bf4e1e223a9774998e558fe298cca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/RadialCurveDeformer.cs using Guid(c7bf4e1e223a9774998e558fe298cca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0c785b5984fa2e708a14039d7e93c21') in 0.008903 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.041818 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/Samples/Scripts/SliceIdProvider.cs
+  artifactKey: Guid(f373bda99225046d39035df39f18d38a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/Samples/Scripts/SliceIdProvider.cs using Guid(f373bda99225046d39035df39f18d38a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07af64e3890006e8ad8b64dae4b93b9d') in 0.008060 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.205948 seconds.
+  path: Assets/Deform/Code/Editor/DeformEditorSettingsAsset.cs
+  artifactKey: Guid(84838e1060cbc4f45a2f463816b2d2fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/DeformEditorSettingsAsset.cs using Guid(84838e1060cbc4f45a2f463816b2d2fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e7086fcf75568d216cee1a5f885e355') in 0.007736 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.290221 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/Masking/Masks/VerticalGradientMask.cs
+  artifactKey: Guid(f83174a89ed707445a52e2ad7dba0ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/Masking/Masks/VerticalGradientMask.cs using Guid(f83174a89ed707445a52e2ad7dba0ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd86cec405ca2aab6a0a26a5527fb2e21') in 0.103129 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.113482 seconds.
+  path: Assets/Deform/Code/Editor/DeformEditorSettings.cs
+  artifactKey: Guid(a6f41df97449ac244b3fb8df502a7cae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/DeformEditorSettings.cs using Guid(a6f41df97449ac244b3fb8df502a7cae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '095751d55ebe7ac2f176d64d1ce5c675') in 0.013729 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.027018 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/Samples/Scripts/IBzSliceableNoRepeat.cs
+  artifactKey: Guid(6ab122256ea7d4f9cb8edd1fca497fb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/Samples/Scripts/IBzSliceableNoRepeat.cs using Guid(6ab122256ea7d4f9cb8edd1fca497fb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e86c171fd8bd8732edc7fd5721116e46') in 0.008158 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.372932 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/Utility/RecalculateBoundsDeformer.cs
+  artifactKey: Guid(da6061ae8dc830848a0b798f14d86ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/Utility/RecalculateBoundsDeformer.cs using Guid(da6061ae8dc830848a0b798f14d86ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '385a963fffee719c139fa005a923cf17') in 0.008869 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.584455 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/BzSliceMeshFilterAdapter.cs
+  artifactKey: Guid(938ebce70ba8e4cd389fc80a0cad9844) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/BzSliceMeshFilterAdapter.cs using Guid(938ebce70ba8e4cd389fc80a0cad9844) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0da5748ad91608df2af9d31566cae5c2') in 0.007484 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.365514 seconds.
+  path: Assets/Deform/Code/External/Common/Beans.Unity.Collections/NativeArrayx.cs
+  artifactKey: Guid(19d83d074eb438546b92ad83fddb2d04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/External/Common/Beans.Unity.Collections/NativeArrayx.cs using Guid(19d83d074eb438546b92ad83fddb2d04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23e5c13dc296d9e0883fb8131a3d91cb') in 0.007064 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.405606 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/BzSliceConfiguration.cs
+  artifactKey: Guid(06635c4394b7139438af733ed8bac3dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/BzSliceConfiguration.cs using Guid(06635c4394b7139438af733ed8bac3dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '775456c6e62bf1ca6e951c9625650ba3') in 0.008969 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.026564 seconds.
+  path: Assets/Deform/Code/Runtime/Core/DeformerAttribute.cs
+  artifactKey: Guid(8d8f7804abc0c034490e0efc33214f1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Core/DeformerAttribute.cs using Guid(8d8f7804abc0c034490e0efc33214f1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7994b1a88e32f414c7b72e64f59ee175') in 0.007536 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.709505 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/SquashAndStretchDeformerEditor.cs
+  artifactKey: Guid(4b9c9c2a61010c148b1f0937b005105f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/SquashAndStretchDeformerEditor.cs using Guid(4b9c9c2a61010c148b1f0937b005105f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab81fcb18d4ae35b0697db739bb5d6d3') in 0.081593 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.122464 seconds.
+  path: Assets/Deform/Code/Editor/DeformBuildPostProcessor.cs
+  artifactKey: Guid(8c592b547d084b92a5afccad88e33274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/DeformBuildPostProcessor.cs using Guid(8c592b547d084b92a5afccad88e33274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c929374a817cee56cbefb2d9a6865d8') in 0.008507 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.052082 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/UVScaleDeformer.cs
+  artifactKey: Guid(b53d269228d793e43ac56ca8133325bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/UVScaleDeformer.cs using Guid(b53d269228d793e43ac56ca8133325bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe69377eccc875c350970782e28f8d5a') in 0.013676 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.069255 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Utility/DataUtils.cs
+  artifactKey: Guid(221118db1d44ad7488f4fef0b9f8dc91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Utility/DataUtils.cs using Guid(221118db1d44ad7488f4fef0b9f8dc91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eb1db5acfbc026b35f3545fbaf5fbcf') in 0.014493 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.047526 seconds.
+  path: Assets/Deform/Code/External/Common/Beans.Unity.Editor/Editor/Handles/VerticalBoundsHandle.cs
+  artifactKey: Guid(d55810b156d98f844a6757b605e09e2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/External/Common/Beans.Unity.Editor/Editor/Handles/VerticalBoundsHandle.cs using Guid(d55810b156d98f844a6757b605e09e2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00a8a4a38359cf8b9e441c1ac8ca40e9') in 0.008253 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.008926 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/Noise/SimplexNoiseDeformerEditor.cs
+  artifactKey: Guid(b1974a47593151f43bdfa38ca88aa3ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/Noise/SimplexNoiseDeformerEditor.cs using Guid(b1974a47593151f43bdfa38ca88aa3ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67376880e6b8f0bbafb0b10a1cf7bded') in 0.007404 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.107059 seconds.
+  path: Assets/Deform/Code/Editor/DeformEditorResources.cs
+  artifactKey: Guid(f52641e37ffbfee4bbf3640faf7cec5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/DeformEditorResources.cs using Guid(f52641e37ffbfee4bbf3640faf7cec5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c379bd0adee80c9dfc5a52285df3aa55') in 0.009602 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007557 seconds.
+  path: Assets/Deform/Code/Runtime/Enums/Axis.cs
+  artifactKey: Guid(07df9bfc3f77a0e48aa6d69ffd6b34bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Enums/Axis.cs using Guid(07df9bfc3f77a0e48aa6d69ffd6b34bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f05dc64209d361a2b03492c54eaed1c1') in 0.007340 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.062837 seconds.
+  path: Assets/BzKovSoft/CharacterSlicer/BzSliceableCharacterBase.cs
+  artifactKey: Guid(7a0e8c9f6de8a024a83516c0b8837c6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/CharacterSlicer/BzSliceableCharacterBase.cs using Guid(7a0e8c9f6de8a024a83516c0b8837c6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55c7484642e68e5ace18c3452f5eab05') in 0.008854 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.044026 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/TextureDisplaceDeformerEditor.cs
+  artifactKey: Guid(792d6b5132f69d24687aa5a48400ad02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/TextureDisplaceDeformerEditor.cs using Guid(792d6b5132f69d24687aa5a48400ad02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90c27acb09f6792a073e5fabade611a8') in 0.008255 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.049953 seconds.
+  path: Assets/BzKovSoft/CharacterSlicer/CenterOfMassColliderBasedHelper.cs
+  artifactKey: Guid(efe26a82b8b4fa94c97395fb84108064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/CharacterSlicer/CenterOfMassColliderBasedHelper.cs using Guid(efe26a82b8b4fa94c97395fb84108064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c9e281efa49f695e8cc76270f278049') in 0.010971 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010179 seconds.
+  path: Assets/Deform/Code/Editor/DeformHandlesUtility.cs
+  artifactKey: Guid(13ebe39dcdce65d458379b1d82e36ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/DeformHandlesUtility.cs using Guid(13ebe39dcdce65d458379b1d82e36ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cff027c5b7113074c30520fb3fa31b87') in 0.012546 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007684 seconds.
+  path: Assets/Deform/Code/Runtime/Enums/BoundsMode.cs
+  artifactKey: Guid(15f0c83ff8e32594894946aa5d8585a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Enums/BoundsMode.cs using Guid(15f0c83ff8e32594894946aa5d8585a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04ba051a1af2872934e346226c6d87d0') in 0.009578 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007105 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Utility/Jobs/NormalizeNormalsJob.cs
+  artifactKey: Guid(caf04f817cd20e743a58ccbb4ba8621f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Utility/Jobs/NormalizeNormalsJob.cs using Guid(caf04f817cd20e743a58ccbb4ba8621f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b9e500814d98a86b4541dbf2d9cb8e6') in 0.007161 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.050042 seconds.
+  path: Assets/BzKovSoft/CharacterSlicer/BzSliceSkinnedMeshAdapter.cs
+  artifactKey: Guid(2d1b4a008e980473aa14b352fa8f2537) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/CharacterSlicer/BzSliceSkinnedMeshAdapter.cs using Guid(2d1b4a008e980473aa14b352fa8f2537) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1115974baeaa10e3975c58d0818fc144') in 0.007896 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017823 seconds.
+  path: Assets/Deform/Code/Runtime/Data/DisplayNameAttribute.cs
+  artifactKey: Guid(f7cce35f6049454fa51eaa2f33f53d9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Data/DisplayNameAttribute.cs using Guid(f7cce35f6049454fa51eaa2f33f53d9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa9c497a975ce7464c0b1d23f580d4e1') in 0.010127 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.033914 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformer.cs
+  artifactKey: Guid(2be784bc41617094fb58d907991896e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformer.cs using Guid(2be784bc41617094fb58d907991896e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c38f9ffccd4e7f64125016bcc70412eb') in 0.008068 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.138804 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/Utility/RepeaterDeformer.cs
+  artifactKey: Guid(da4bbab8a8312b24aa890edd99475a48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/Utility/RepeaterDeformer.cs using Guid(da4bbab8a8312b24aa890edd99475a48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f706d3f84e6e37680ed27ac23a761449') in 0.009223 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.045308 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/TextureDisplaceDeformer.cs
+  artifactKey: Guid(53d0afe58c907604bb9ba26c30e7edcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/TextureDisplaceDeformer.cs using Guid(53d0afe58c907604bb9ba26c30e7edcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c979cf74395c65482a0401300c95c202') in 0.009103 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.038084 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/CubifyDeformer.cs
+  artifactKey: Guid(82d0382989b63d64a865a7d27cbad201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/CubifyDeformer.cs using Guid(82d0382989b63d64a865a7d27cbad201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f66c0ca4aa0fcdb59ad127bce2655d7b') in 0.008746 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.059416 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/TaperDeformerEditor.cs
+  artifactKey: Guid(93a12d51ba13f134db224866bf91de20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/TaperDeformerEditor.cs using Guid(93a12d51ba13f134db224866bf91de20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a64bf35eddb6ff61ba3a3d0bfdcf599a') in 0.011348 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.008231 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/IComponentManager.cs
+  artifactKey: Guid(8777429b8d9cbf949811d8721bcafb87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/IComponentManager.cs using Guid(8777429b8d9cbf949811d8721bcafb87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd53a80681c1ba0f57d9be58400811550') in 0.007890 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.066081 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/CurveDisplaceDeformer.cs
+  artifactKey: Guid(37598fa690cd5084d900647169df36ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/CurveDisplaceDeformer.cs using Guid(37598fa690cd5084d900647169df36ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e50883e49f72bd435009a04fd6742cb') in 0.009536 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007392 seconds.
+  path: Assets/SayCheese/_Material/Cheese/CheeseCrossMat.mat
+  artifactKey: Guid(f95a338ab50b638498904e4f8ac81745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SayCheese/_Material/Cheese/CheeseCrossMat.mat using Guid(f95a338ab50b638498904e4f8ac81745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5b6a2108f2668fe96f4ac1fd4b27f35') in 0.082426 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.087449 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/Utility/RecalculateNormalsDeformer.cs
+  artifactKey: Guid(56e33ea981c5a424eb327f58494a1445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/Utility/RecalculateNormalsDeformer.cs using Guid(56e33ea981c5a424eb327f58494a1445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c79627e6a08c91e48cfaf158cdd8223e') in 0.010427 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.180186 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/SpherifyDeformer.cs
+  artifactKey: Guid(34d36a2efdcec6340a30c114dea9615f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/SpherifyDeformer.cs using Guid(34d36a2efdcec6340a30c114dea9615f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77429876fabccbf8de1991430742f257') in 0.008023 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.102040 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/EventHandlers/BzFixMassSmart.cs
+  artifactKey: Guid(18360257b5b118644b7c144e3c800b49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/EventHandlers/BzFixMassSmart.cs using Guid(18360257b5b118644b7c144e3c800b49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92afd51868c37f2bf260b41e68ff9e3e') in 0.008960 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.008640 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Data/VertexCache.cs
+  artifactKey: Guid(bd6bf40d30d028f4e9d0c411d5b381b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Data/VertexCache.cs using Guid(bd6bf40d30d028f4e9d0c411d5b381b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6fe8ce7eb273496e0324f3667acb880') in 0.007917 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007438 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/EventHandlers/IBzObjectSlicedEvent.cs
+  artifactKey: Guid(62ceef23ffeafa643900cbbf26b1dbc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/EventHandlers/IBzObjectSlicedEvent.cs using Guid(62ceef23ffeafa643900cbbf26b1dbc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acd896b669c93858f60ef4fd8ccf2809') in 0.007017 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007997 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/SquashAndStretchDeformer.cs
+  artifactKey: Guid(78ed453254255cb409bad7ea6d0a427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/SquashAndStretchDeformer.cs using Guid(78ed453254255cb409bad7ea6d0a427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '306caf2db22e9cea9ac7c56b274fab01') in 0.010118 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.036194 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/StarDeformer.cs
+  artifactKey: Guid(2bf328e538290e34ebded6aefa5d3211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/StarDeformer.cs using Guid(2bf328e538290e34ebded6aefa5d3211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfed0e607d7458ceb6b1ecbe3cbe3261') in 0.007546 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.051418 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/MagnetDeformer.cs
+  artifactKey: Guid(ed3b0ca782ac90447977ba1eb2b74c7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/MagnetDeformer.cs using Guid(ed3b0ca782ac90447977ba1eb2b74c7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cc4ca0ad84dc459abc9e0f59af21e55') in 0.006796 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.018671 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/Masking/Masks/VerticalGradientMaskEditor.cs
+  artifactKey: Guid(e107b5e56e2a15e4ebb14971bbb13b06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/Masking/Masks/VerticalGradientMaskEditor.cs using Guid(e107b5e56e2a15e4ebb14971bbb13b06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e7705dd1b5ea058797afff9ab3fac15') in 0.011706 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.009098 seconds.
+  path: Assets/Deform/Code/Runtime/Enums/TextureSampleSpace.cs
+  artifactKey: Guid(3a9c5b72d77281943b64cf84fbcbd9c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Enums/TextureSampleSpace.cs using Guid(3a9c5b72d77281943b64cf84fbcbd9c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c229a8a55f68a38c743ed3a0560bc96f') in 0.008490 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.045769 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/Noise/SimplexNoiseDeformer.cs
+  artifactKey: Guid(6e3653249357fd5468801be5371a7ea4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/Noise/SimplexNoiseDeformer.cs using Guid(6e3653249357fd5468801be5371a7ea4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '127c66af2c795ce493b4faa04b1baf29') in 0.011926 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.032944 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/Masking/Masks/VertexColorMaskEditor.cs
+  artifactKey: Guid(de9725ecc0cd4994abba096f58f0d9fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/Masking/Masks/VertexColorMaskEditor.cs using Guid(de9725ecc0cd4994abba096f58f0d9fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb639324895cd6abdc270b3050c75619') in 0.008509 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.032595 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/Polygon/BzPoly.cs
+  artifactKey: Guid(9e06ebf4bff1b4497992ad65ee02f4ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/Polygon/BzPoly.cs using Guid(9e06ebf4bff1b4497992ad65ee02f4ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '993a407fe9e6f67c31847620dccc5f31') in 0.007541 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.035902 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/Tests/MeshGenerator/CapsuleTests.cs
+  artifactKey: Guid(7ae1919965dd5224bb4adb2ccae192eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/Tests/MeshGenerator/CapsuleTests.cs using Guid(7ae1919965dd5224bb4adb2ccae192eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77e8aa0501818ac66e65ee1b1fca6bbd') in 0.008431 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.008155 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/MagnetDeformerEditor.cs
+  artifactKey: Guid(f365de2e47265484199408d9917665b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/MagnetDeformerEditor.cs using Guid(f365de2e47265484199408d9917665b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42ad7ded4264c92437affd7c512d9790') in 0.007652 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010545 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/RadialSkewDeformerEditor.cs
+  artifactKey: Guid(bd90e8a45a2946b4cba99967d1c530e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/RadialSkewDeformerEditor.cs using Guid(bd90e8a45a2946b4cba99967d1c530e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ac8ec786d0806ca4a2cfb3efb4c0641') in 0.007544 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.073329 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Data/MeshData.cs
+  artifactKey: Guid(9f432c560dc40074f97a8ccf40fdc4b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Data/MeshData.cs using Guid(9f432c560dc40074f97a8ccf40fdc4b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57988ea8561ba81ded0c1e73aec4af0d') in 0.026338 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007468 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Utility/Jobs/CopyFloat3sJob.cs
+  artifactKey: Guid(4de8639d1a5298a4c8713328aff7a113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Utility/Jobs/CopyFloat3sJob.cs using Guid(4de8639d1a5298a4c8713328aff7a113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afe4e6327398b4cc7146abf52f66dc6b') in 0.007143 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.009555 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/BzSliceableObjectBase.cs
+  artifactKey: Guid(a18ef726ebacf474d95108bf4d4980b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/BzSliceableObjectBase.cs using Guid(a18ef726ebacf474d95108bf4d4980b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc5ce40ab65b4b794190f2df36114f28') in 0.010349 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.042650 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/DeformableEditor.cs
+  artifactKey: Guid(ea27e5d942c6b434a8195f27a7913f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/DeformableEditor.cs using Guid(ea27e5d942c6b434a8195f27a7913f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '649d334c28d418c40f66a603e4b50b82') in 0.009529 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.032836 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/TransformOffsetDeformer.cs
+  artifactKey: Guid(358b046d7c0176544a558f4a9c929001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/TransformOffsetDeformer.cs using Guid(358b046d7c0176544a558f4a9c929001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59d38849621a4af5f354b3319057275c') in 0.006734 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.040948 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/BendDeformerEditor.cs
+  artifactKey: Guid(42b020e8b4018f248bb26e6fa52afc46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/BendDeformerEditor.cs using Guid(42b020e8b4018f248bb26e6fa52afc46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65d3bb9fab029096b10b1ba14417badc') in 0.010693 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007652 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/SliceResult.cs
+  artifactKey: Guid(87f9ac85c1490c442a0eb986e446a8f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/SliceResult.cs using Guid(87f9ac85c1490c442a0eb986e446a8f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dc67cec5d738d7512a66c6987617933') in 0.007752 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.023624 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/Masking/Masks/VertexColorMask.cs
+  artifactKey: Guid(0cdb07022a79aef498a55d9fb8d3b32e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/Masking/Masks/VertexColorMask.cs using Guid(0cdb07022a79aef498a55d9fb8d3b32e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb333fde08751320fe247479d41b4f30') in 0.007539 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.038322 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/MeshGenerator/Capsule.cs
+  artifactKey: Guid(39018081ca6b749499d27b2f3e2d11e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/MeshGenerator/Capsule.cs using Guid(39018081ca6b749499d27b2f3e2d11e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d91d146935723a15ef5f4535b08fd08') in 0.008776 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.054483 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/SkewDeformerEditor.cs
+  artifactKey: Guid(640e374c3b19007478e39961a75572a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/SkewDeformerEditor.cs using Guid(640e374c3b19007478e39961a75572a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b14270624c6e838f4c9a4cc141312542') in 0.009145 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.033545 seconds.
+  path: Assets/Deform/Code/Editor/Mesh/Deformers/TransformDeformerEditor.cs
+  artifactKey: Guid(aa0c60e82c10d8d4fa9a4470b42a4fe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/Mesh/Deformers/TransformDeformerEditor.cs using Guid(aa0c60e82c10d8d4fa9a4470b42a4fe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '175981e0286dd4e1e2e2dcda981c3b50') in 0.009878 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007528 seconds.
+  path: Assets/Deform/Code/Runtime/Data/CollapsibleSection.cs
+  artifactKey: Guid(8236330f25974322b113beffd4d8fe78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Data/CollapsibleSection.cs using Guid(8236330f25974322b113beffd4d8fe78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '854f63ba7498d3533cef1067d4502bec') in 0.008871 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.025112 seconds.
+  path: Assets/BzKovSoft/ObjectSlicer/BzManualMeshAdapter.cs
+  artifactKey: Guid(8a9fda7d69ba5444f90f382b39606028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BzKovSoft/ObjectSlicer/BzManualMeshAdapter.cs using Guid(8a9fda7d69ba5444f90f382b39606028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d3f7e00b9ddeb5614521ec989619ae0') in 0.009326 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.034372 seconds.
+  path: Assets/Deform/Code/Runtime/Mesh/Deformers/UVOffsetDeformer.cs
+  artifactKey: Guid(97cfa3fadda69aa42af8bc90b7128fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Runtime/Mesh/Deformers/UVOffsetDeformer.cs using Guid(97cfa3fadda69aa42af8bc90b7128fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7c12b78fbcda1f7ba0d51f268c99a1e') in 0.009029 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010179 seconds.
+  path: Assets/Deform/Code/Editor/DeformHandles.cs
+  artifactKey: Guid(a618223751393864db9bdf7bea9bc2ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deform/Code/Editor/DeformHandles.cs using Guid(a618223751393864db9bdf7bea9bc2ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecfc565b331e5abc00b50ddce04bd824') in 0.008256 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

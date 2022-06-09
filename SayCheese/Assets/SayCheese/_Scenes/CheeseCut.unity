@@ -174,7 +174,7 @@ MonoBehaviour:
   knifeDeformer: {fileID: 1033040271}
   knifeDownLimit: 0.2
   knifeSpeed: 2
-  levelObjectSpeed: 0.3
+  levelObjectSpeed: 0.1
 --- !u!114 &194756128
 MonoBehaviour:
   m_ObjectHideFlags: 0
